@@ -3,6 +3,7 @@
 日志函数
 """
 import time
+import pprint
 
 
 class FileLog(object):
@@ -14,12 +15,19 @@ class FileLog(object):
         log_info = log_str % log_args
         self.fp.write(log_info + "\n")
 
-    def get_time(self):
+    @classmethod
+    def get_time(cls):
         return time.strftime('[%Y-%m-%d] %H:%M:%S ', time.localtime(time.time()))
 
     def log_time(self, log_str, *log_args):
-        log_info = self.get_time() + log_str % log_args
+        log_info = self.get_time() + (log_str % log_args)
         self.fp.write(log_info + "\n")
+
+    def pp_obj_log(self, obj):
+        pprint.pprint(obj, stream=self.fp)
+
+    def pp_str_time_log(self, log_str, *log_args):
+        pprint.pprint(self.get_time() + (log_str % log_args), stream=self.fp)
 
     def log_finish(self):
         self.fp.close()
