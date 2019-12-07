@@ -28,6 +28,7 @@ def preprocess_cell(line):
 
 
 country_data = [{}, {}]  # 出口 进口
+write_one_sheet = True
 
 
 def add_country_export_data(country1, country2, data):
@@ -51,6 +52,10 @@ def process_data(excel_op, excel, log, index, add_func, log_str):
 
 
 def write_country_data():
+    """
+    写入分开的sheet
+    :return:
+    """
     lines = []
     for i in xrange(2):
         tmp_sheet_line = []
@@ -63,6 +68,31 @@ def write_country_data():
     common_util.excel_op.write_excel_row_lines(
         "./data/combine_all_country.xls",
         ["Export", "Import"], lines
+    )
+
+
+def write_country_data_one_sheet():
+    """
+    写入一个sheet
+    :return:
+    """
+    lines = [["country1", "country2", "Export", "Import"]]
+    tmp_dict = {}
+    for i, data in enumerate(country_data):
+        for country1, dd in data.iteritems():
+            for country2, v in dd.iteritems():
+                tmp_dict.setdefault((country1, country2), ["empty", "empty"])[i] = v
+    tmp_lines = []
+    for k, v in tmp_dict.iteritems():
+        one_line = list(k)
+        one_line.extend(v)
+        tmp_lines.append(one_line)
+    tmp_lines.sort()
+
+    lines.extend(tmp_lines)
+    common_util.excel_op.write_excel_row_lines(
+        "./data/combine_all_country_one_sheet.xls",
+        ["ExportAndImport"], [lines]
     )
 
 
@@ -81,7 +111,10 @@ def main(path_name):
         process_data(excel_op, excel, log, 1, add_country_import_data, "Import")
 
     std_log("正在写入Excel.....")
-    write_country_data()
+    if write_one_sheet:
+        write_country_data_one_sheet()
+    else:
+        write_country_data()
     log.log_finish()
     std_log("处理完毕...")
 

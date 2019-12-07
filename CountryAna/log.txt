@@ -1,1195 +1,1195 @@
-[2019-12-07] 16:52:30 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (1).xlsx
-[2019-12-07] 16:52:30 start sheet 0 Export FOB:
-[2019-12-07] 16:52:30 Export Find Left Country:Albania
-[2019-12-07] 16:52:30 start sheet 1 Import CIF:
-[2019-12-07] 16:52:30 Import Find Left Country:Albania
-[2019-12-07] 16:52:30 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (10).xlsx
-[2019-12-07] 16:52:30 start sheet 0 Export FOB:
-[2019-12-07] 16:52:30 Export Find Left Country:Aruba
-[2019-12-07] 16:52:30 start sheet 1 Import CIF:
-[2019-12-07] 16:52:30 Import Find Left Country:Aruba
-[2019-12-07] 16:52:30 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (100).xlsx
-[2019-12-07] 16:52:30 start sheet 0 Export FOB:
-[2019-12-07] 16:52:30 Export Find Left Country:Kazakhstan
-[2019-12-07] 16:52:30 start sheet 1 Import CIF:
-[2019-12-07] 16:52:30 Import Find Left Country:Kazakhstan
-[2019-12-07] 16:52:30 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (11).xlsx
-[2019-12-07] 16:52:30 start sheet 0 Export FOB:
-[2019-12-07] 16:52:30 Export Find Left Country:Australia
-[2019-12-07] 16:52:30 start sheet 1 Import CIF:
-[2019-12-07] 16:52:30 Import Find Left Country:Australia
-[2019-12-07] 16:52:30 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (12).xlsx
-[2019-12-07] 16:52:30 start sheet 0 Export FOB:
-[2019-12-07] 16:52:30 Export Find Left Country:Austria
-[2019-12-07] 16:52:30 start sheet 1 Import CIF:
-[2019-12-07] 16:52:30 Import Find Left Country:Austria
-[2019-12-07] 16:52:30 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (13).xlsx
-[2019-12-07] 16:52:30 start sheet 0 Export FOB:
-[2019-12-07] 16:52:30 Export Find Left Country:Azerbaijan, Rep. of
-[2019-12-07] 16:52:30 start sheet 1 Import CIF:
-[2019-12-07] 16:52:30 Import Find Left Country:Azerbaijan, Rep. of
-[2019-12-07] 16:52:30 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (14).xlsx
-[2019-12-07] 16:52:30 start sheet 0 Export FOB:
-[2019-12-07] 16:52:30 Export Find Left Country:Bahamas, The
-[2019-12-07] 16:52:30 start sheet 1 Import CIF:
-[2019-12-07] 16:52:30 Import Find Left Country:Bahamas, The
-[2019-12-07] 16:52:30 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (15).xlsx
-[2019-12-07] 16:52:30 start sheet 0 Export FOB:
-[2019-12-07] 16:52:30 Export Find Left Country:Bahrain, Kingdom of
-[2019-12-07] 16:52:30 start sheet 1 Import CIF:
-[2019-12-07] 16:52:30 Import Find Left Country:Bahrain, Kingdom of
-[2019-12-07] 16:52:30 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (16).xlsx
-[2019-12-07] 16:52:30 start sheet 0 Export FOB:
-[2019-12-07] 16:52:30 Export Find Left Country:Bangladesh
-[2019-12-07] 16:52:30 start sheet 1 Import CIF:
-[2019-12-07] 16:52:30 Import Find Left Country:Bangladesh
-[2019-12-07] 16:52:30 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (17).xlsx
-[2019-12-07] 16:52:30 start sheet 0 Export FOB:
-[2019-12-07] 16:52:30 Export Find Left Country:Barbados
-[2019-12-07] 16:52:30 start sheet 1 Import CIF:
-[2019-12-07] 16:52:30 Import Find Left Country:Barbados
-[2019-12-07] 16:52:30 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (18).xlsx
-[2019-12-07] 16:52:30 start sheet 0 Export FOB:
-[2019-12-07] 16:52:31 Export Find Left Country:Belarus
-[2019-12-07] 16:52:31 start sheet 1 Import CIF:
-[2019-12-07] 16:52:31 Import Find Left Country:Belarus
-[2019-12-07] 16:52:31 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (19).xlsx
-[2019-12-07] 16:52:31 start sheet 0 Export FOB:
-[2019-12-07] 16:52:31 Export Find Left Country:Belgium
-[2019-12-07] 16:52:31 start sheet 1 Import CIF:
-[2019-12-07] 16:52:31 Import Find Left Country:Belgium
-[2019-12-07] 16:52:31 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (2).xlsx
-[2019-12-07] 16:52:31 start sheet 0 Export FOB:
-[2019-12-07] 16:52:31 Export Find Left Country:Algeria
-[2019-12-07] 16:52:31 start sheet 1 Import CIF:
-[2019-12-07] 16:52:31 Import Find Left Country:Algeria
-[2019-12-07] 16:52:31 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (20).xlsx
-[2019-12-07] 16:52:31 start sheet 0 Export FOB:
-[2019-12-07] 16:52:31 Export Find Left Country:Belize
-[2019-12-07] 16:52:31 start sheet 1 Import CIF:
-[2019-12-07] 16:52:31 Import Find Left Country:Belize
-[2019-12-07] 16:52:31 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (21).xlsx
-[2019-12-07] 16:52:31 start sheet 0 Export FOB:
-[2019-12-07] 16:52:31 Export Find Left Country:Benin
-[2019-12-07] 16:52:31 start sheet 1 Import CIF:
-[2019-12-07] 16:52:31 Import Find Left Country:Benin
-[2019-12-07] 16:52:31 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (22).xlsx
-[2019-12-07] 16:52:31 start sheet 0 Export FOB:
-[2019-12-07] 16:52:31 Export Find Left Country:Bermuda
-[2019-12-07] 16:52:31 start sheet 1 Import CIF:
-[2019-12-07] 16:52:31 Import Find Left Country:Bermuda
-[2019-12-07] 16:52:31 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (23).xlsx
-[2019-12-07] 16:52:31 start sheet 0 Export FOB:
-[2019-12-07] 16:52:31 Export Find Left Country:Bhutan
-[2019-12-07] 16:52:31 start sheet 1 Import CIF:
-[2019-12-07] 16:52:31 Import Find Left Country:Bhutan
-[2019-12-07] 16:52:31 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (24).xlsx
-[2019-12-07] 16:52:31 start sheet 0 Export FOB:
-[2019-12-07] 16:52:31 Export Find Left Country:Bolivia
-[2019-12-07] 16:52:31 start sheet 1 Import CIF:
-[2019-12-07] 16:52:31 Import Find Left Country:Bolivia
-[2019-12-07] 16:52:31 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (25).xlsx
-[2019-12-07] 16:52:31 start sheet 0 Export FOB:
-[2019-12-07] 16:52:31 Export Find Left Country:Bosnia and Herzegovina
-[2019-12-07] 16:52:31 start sheet 1 Import CIF:
-[2019-12-07] 16:52:31 Import Find Left Country:Bosnia and Herzegovina
-[2019-12-07] 16:52:31 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (26).xlsx
-[2019-12-07] 16:52:31 start sheet 0 Export FOB:
-[2019-12-07] 16:52:31 Export Find Left Country:Botswana
-[2019-12-07] 16:52:31 start sheet 1 Import CIF:
-[2019-12-07] 16:52:31 Import Find Left Country:Botswana
-[2019-12-07] 16:52:31 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (27).xlsx
-[2019-12-07] 16:52:31 start sheet 0 Export FOB:
-[2019-12-07] 16:52:31 Export Find Left Country:Brazil
-[2019-12-07] 16:52:31 start sheet 1 Import CIF:
-[2019-12-07] 16:52:31 Import Find Left Country:Brazil
-[2019-12-07] 16:52:31 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (28).xlsx
-[2019-12-07] 16:52:31 start sheet 0 Export FOB:
-[2019-12-07] 16:52:31 Export Find Left Country:Brunei Darussalam
-[2019-12-07] 16:52:31 start sheet 1 Import CIF:
-[2019-12-07] 16:52:31 Import Find Left Country:Brunei Darussalam
-[2019-12-07] 16:52:31 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (29).xlsx
-[2019-12-07] 16:52:31 start sheet 0 Export FOB:
-[2019-12-07] 16:52:31 Export Find Left Country:Brunei Darussalam
-[2019-12-07] 16:52:31 start sheet 1 Import CIF:
-[2019-12-07] 16:52:31 Import Find Left Country:Brunei Darussalam
-[2019-12-07] 16:52:31 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (3).xlsx
-[2019-12-07] 16:52:31 start sheet 0 Export FOB:
-[2019-12-07] 16:52:31 Export Find Left Country:American Samoa
-[2019-12-07] 16:52:31 start sheet 1 Import CIF:
-[2019-12-07] 16:52:31 Import Find Left Country:American Samoa
-[2019-12-07] 16:52:31 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (30).xlsx
-[2019-12-07] 16:52:31 start sheet 0 Export FOB:
-[2019-12-07] 16:52:31 Export Find Left Country:Bulgaria
-[2019-12-07] 16:52:31 start sheet 1 Import CIF:
-[2019-12-07] 16:52:31 Import Find Left Country:Bulgaria
-[2019-12-07] 16:52:31 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (31).xlsx
-[2019-12-07] 16:52:31 start sheet 0 Export FOB:
-[2019-12-07] 16:52:31 Export Find Left Country:Burkina Faso
-[2019-12-07] 16:52:31 start sheet 1 Import CIF:
-[2019-12-07] 16:52:31 Import Find Left Country:Burkina Faso
-[2019-12-07] 16:52:31 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (32).xlsx
-[2019-12-07] 16:52:31 start sheet 0 Export FOB:
-[2019-12-07] 16:52:31 Export Find Left Country:Burundi
-[2019-12-07] 16:52:31 start sheet 1 Import CIF:
-[2019-12-07] 16:52:31 Import Find Left Country:Burundi
-[2019-12-07] 16:52:31 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (33).xlsx
-[2019-12-07] 16:52:31 start sheet 0 Export FOB:
-[2019-12-07] 16:52:31 Export Find Left Country:Cabo Verde
-[2019-12-07] 16:52:31 start sheet 1 Import CIF:
-[2019-12-07] 16:52:31 Import Find Left Country:Cabo Verde
-[2019-12-07] 16:52:31 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (34).xlsx
-[2019-12-07] 16:52:31 start sheet 0 Export FOB:
-[2019-12-07] 16:52:32 Export Find Left Country:Cambodia
-[2019-12-07] 16:52:32 start sheet 1 Import CIF:
-[2019-12-07] 16:52:32 Import Find Left Country:Cambodia
-[2019-12-07] 16:52:32 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (35).xlsx
-[2019-12-07] 16:52:32 start sheet 0 Export FOB:
-[2019-12-07] 16:52:32 Export Find Left Country:Cameroon
-[2019-12-07] 16:52:32 start sheet 1 Import CIF:
-[2019-12-07] 16:52:32 Import Find Left Country:Cameroon
-[2019-12-07] 16:52:32 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (36).xlsx
-[2019-12-07] 16:52:32 start sheet 0 Export FOB:
-[2019-12-07] 16:52:32 Export Find Left Country:Canada
-[2019-12-07] 16:52:32 start sheet 1 Import CIF:
-[2019-12-07] 16:52:32 Import Find Left Country:Canada
-[2019-12-07] 16:52:32 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (37).xlsx
-[2019-12-07] 16:52:32 start sheet 0 Export FOB:
-[2019-12-07] 16:52:32 Export Find Left Country:Central African Rep.
-[2019-12-07] 16:52:32 start sheet 1 Import CIF:
-[2019-12-07] 16:52:32 Import Find Left Country:Central African Rep.
-[2019-12-07] 16:52:32 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (38).xlsx
-[2019-12-07] 16:52:32 start sheet 0 Export FOB:
-[2019-12-07] 16:52:32 Export Find Left Country:Chad
-[2019-12-07] 16:52:32 start sheet 1 Import CIF:
-[2019-12-07] 16:52:32 Import Find Left Country:Chad
-[2019-12-07] 16:52:32 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (39).xlsx
-[2019-12-07] 16:52:32 start sheet 0 Export FOB:
-[2019-12-07] 16:52:32 Export Find Left Country:Chile
-[2019-12-07] 16:52:32 start sheet 1 Import CIF:
-[2019-12-07] 16:52:32 Import Find Left Country:Chile
-[2019-12-07] 16:52:32 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (4).xlsx
-[2019-12-07] 16:52:32 start sheet 0 Export FOB:
-[2019-12-07] 16:52:32 Export Find Left Country:Angola
-[2019-12-07] 16:52:32 start sheet 1 Import CIF:
-[2019-12-07] 16:52:32 Import Find Left Country:Angola
-[2019-12-07] 16:52:32 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (40).xlsx
-[2019-12-07] 16:52:32 start sheet 0 Export FOB:
-[2019-12-07] 16:52:32 Export Find Left Country:China,P.R.: Mainland
-[2019-12-07] 16:52:32 start sheet 1 Import CIF:
-[2019-12-07] 16:52:32 Import Find Left Country:China,P.R.: Mainland
-[2019-12-07] 16:52:32 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (41).xlsx
-[2019-12-07] 16:52:32 start sheet 0 Export FOB:
-[2019-12-07] 16:52:32 Export Find Left Country:China,P.R.: Hong Kong
-[2019-12-07] 16:52:32 start sheet 1 Import CIF:
-[2019-12-07] 16:52:32 Import Find Left Country:China,P.R.: Hong Kong
-[2019-12-07] 16:52:32 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (42).xlsx
-[2019-12-07] 16:52:32 start sheet 0 Export FOB:
-[2019-12-07] 16:52:32 Export Find Left Country:China,P.R.: Macao
-[2019-12-07] 16:52:32 start sheet 1 Import CIF:
-[2019-12-07] 16:52:32 Import Find Left Country:China,P.R.: Macao
-[2019-12-07] 16:52:32 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (43).xlsx
-[2019-12-07] 16:52:32 start sheet 0 Export FOB:
-[2019-12-07] 16:52:32 Export Find Left Country:Colombia
-[2019-12-07] 16:52:32 start sheet 1 Import CIF:
-[2019-12-07] 16:52:32 Import Find Left Country:Colombia
-[2019-12-07] 16:52:32 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (44).xlsx
-[2019-12-07] 16:52:32 start sheet 0 Export FOB:
-[2019-12-07] 16:52:32 Export Find Left Country:Comoros
-[2019-12-07] 16:52:32 start sheet 1 Import CIF:
-[2019-12-07] 16:52:32 Import Find Left Country:Comoros
-[2019-12-07] 16:52:32 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (45).xlsx
-[2019-12-07] 16:52:32 start sheet 0 Export FOB:
-[2019-12-07] 16:52:32 Export Find Left Country:Congo, Dem. Rep. of
-[2019-12-07] 16:52:32 start sheet 1 Import CIF:
-[2019-12-07] 16:52:32 Import Find Left Country:Congo, Dem. Rep. of
-[2019-12-07] 16:52:32 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (46).xlsx
-[2019-12-07] 16:52:32 start sheet 0 Export FOB:
-[2019-12-07] 16:52:32 Export Find Left Country:Congo, Republic of
-[2019-12-07] 16:52:32 start sheet 1 Import CIF:
-[2019-12-07] 16:52:32 Import Find Left Country:Congo, Republic of
-[2019-12-07] 16:52:32 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (47).xlsx
-[2019-12-07] 16:52:32 start sheet 0 Export FOB:
-[2019-12-07] 16:52:32 Export Find Left Country:Costa Rica
-[2019-12-07] 16:52:32 start sheet 1 Import CIF:
-[2019-12-07] 16:52:32 Import Find Left Country:Costa Rica
-[2019-12-07] 16:52:32 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (48).xlsx
-[2019-12-07] 16:52:32 start sheet 0 Export FOB:
-[2019-12-07] 16:52:32 Export Find Left Country:Côte d'Ivoire
-[2019-12-07] 16:52:32 start sheet 1 Import CIF:
-[2019-12-07] 16:52:32 Import Find Left Country:Côte d'Ivoire
-[2019-12-07] 16:52:32 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (49).xlsx
-[2019-12-07] 16:52:32 start sheet 0 Export FOB:
-[2019-12-07] 16:52:32 Export Find Left Country:Croatia
-[2019-12-07] 16:52:32 start sheet 1 Import CIF:
-[2019-12-07] 16:52:33 Import Find Left Country:Croatia
-[2019-12-07] 16:52:33 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (5).xlsx
-[2019-12-07] 16:52:33 start sheet 0 Export FOB:
-[2019-12-07] 16:52:33 Export Find Left Country:Anguilla
-[2019-12-07] 16:52:33 start sheet 1 Import CIF:
-[2019-12-07] 16:52:33 Import Find Left Country:Anguilla
-[2019-12-07] 16:52:33 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (50).xlsx
-[2019-12-07] 16:52:33 start sheet 0 Export FOB:
-[2019-12-07] 16:52:33 Export Find Left Country:Cuba
-[2019-12-07] 16:52:33 start sheet 1 Import CIF:
-[2019-12-07] 16:52:33 Import Find Left Country:Cuba
-[2019-12-07] 16:52:33 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (51).xlsx
-[2019-12-07] 16:52:33 start sheet 0 Export FOB:
-[2019-12-07] 16:52:33 Export Find Left Country:Curacao
-[2019-12-07] 16:52:33 start sheet 1 Import CIF:
-[2019-12-07] 16:52:33 Import Find Left Country:Curacao
-[2019-12-07] 16:52:33 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (52).xlsx
-[2019-12-07] 16:52:33 start sheet 0 Export FOB:
-[2019-12-07] 16:52:33 Export Find Left Country:Cyprus
-[2019-12-07] 16:52:33 start sheet 1 Import CIF:
-[2019-12-07] 16:52:33 Import Find Left Country:Cyprus
-[2019-12-07] 16:52:33 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (53).xlsx
-[2019-12-07] 16:52:33 start sheet 0 Export FOB:
-[2019-12-07] 16:52:33 Export Find Left Country:Czech Republic
-[2019-12-07] 16:52:33 start sheet 1 Import CIF:
-[2019-12-07] 16:52:33 Import Find Left Country:Czech Republic
-[2019-12-07] 16:52:33 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (54).xlsx
-[2019-12-07] 16:52:33 start sheet 0 Export FOB:
-[2019-12-07] 16:52:33 Export Find Left Country:Denmark
-[2019-12-07] 16:52:33 start sheet 1 Import CIF:
-[2019-12-07] 16:52:33 Import Find Left Country:Denmark
-[2019-12-07] 16:52:33 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (55).xlsx
-[2019-12-07] 16:52:33 start sheet 0 Export FOB:
-[2019-12-07] 16:52:33 Export Find Left Country:Djibouti
-[2019-12-07] 16:52:33 start sheet 1 Import CIF:
-[2019-12-07] 16:52:33 Import Find Left Country:Djibouti
-[2019-12-07] 16:52:33 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (56).xlsx
-[2019-12-07] 16:52:33 start sheet 0 Export FOB:
-[2019-12-07] 16:52:33 Export Find Left Country:Dominica
-[2019-12-07] 16:52:33 start sheet 1 Import CIF:
-[2019-12-07] 16:52:33 Import Find Left Country:Dominica
-[2019-12-07] 16:52:33 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (57).xlsx
-[2019-12-07] 16:52:33 start sheet 0 Export FOB:
-[2019-12-07] 16:52:33 Export Find Left Country:Dominican Republic
-[2019-12-07] 16:52:33 start sheet 1 Import CIF:
-[2019-12-07] 16:52:33 Import Find Left Country:Dominican Republic
-[2019-12-07] 16:52:33 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (58).xlsx
-[2019-12-07] 16:52:33 start sheet 0 Export FOB:
-[2019-12-07] 16:52:33 Export Find Left Country:Ecuador
-[2019-12-07] 16:52:33 start sheet 1 Import CIF:
-[2019-12-07] 16:52:33 Import Find Left Country:Ecuador
-[2019-12-07] 16:52:33 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (59).xlsx
-[2019-12-07] 16:52:33 start sheet 0 Export FOB:
-[2019-12-07] 16:52:33 Export Find Left Country:Egypt
-[2019-12-07] 16:52:33 start sheet 1 Import CIF:
-[2019-12-07] 16:52:33 Import Find Left Country:Egypt
-[2019-12-07] 16:52:33 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (6).xlsx
-[2019-12-07] 16:52:33 start sheet 0 Export FOB:
-[2019-12-07] 16:52:33 Export Find Left Country:Antigua and Barbuda
-[2019-12-07] 16:52:33 start sheet 1 Import CIF:
-[2019-12-07] 16:52:33 Import Find Left Country:Antigua and Barbuda
-[2019-12-07] 16:52:33 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (60).xlsx
-[2019-12-07] 16:52:33 start sheet 0 Export FOB:
-[2019-12-07] 16:52:33 Export Find Left Country:El Salvador
-[2019-12-07] 16:52:33 start sheet 1 Import CIF:
-[2019-12-07] 16:52:33 Import Find Left Country:El Salvador
-[2019-12-07] 16:52:33 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (61).xlsx
-[2019-12-07] 16:52:33 start sheet 0 Export FOB:
-[2019-12-07] 16:52:33 Export Find Left Country:Equatorial Guinea
-[2019-12-07] 16:52:33 start sheet 1 Import CIF:
-[2019-12-07] 16:52:33 Import Find Left Country:Equatorial Guinea
-[2019-12-07] 16:52:33 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (62).xlsx
-[2019-12-07] 16:52:33 start sheet 0 Export FOB:
-[2019-12-07] 16:52:33 Export Find Left Country:Eritrea
-[2019-12-07] 16:52:33 start sheet 1 Import CIF:
-[2019-12-07] 16:52:33 Import Find Left Country:Eritrea
-[2019-12-07] 16:52:33 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (63).xlsx
-[2019-12-07] 16:52:33 start sheet 0 Export FOB:
-[2019-12-07] 16:52:33 Export Find Left Country:Estonia
-[2019-12-07] 16:52:33 start sheet 1 Import CIF:
-[2019-12-07] 16:52:33 Import Find Left Country:Estonia
-[2019-12-07] 16:52:33 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (64).xlsx
-[2019-12-07] 16:52:33 start sheet 0 Export FOB:
-[2019-12-07] 16:52:33 Export Find Left Country:Eswatini, Kingdom of
-[2019-12-07] 16:52:33 start sheet 1 Import CIF:
-[2019-12-07] 16:52:33 Import Find Left Country:Eswatini, Kingdom of
-[2019-12-07] 16:52:33 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (65).xlsx
-[2019-12-07] 16:52:33 start sheet 0 Export FOB:
-[2019-12-07] 16:52:33 Export Find Left Country:Ethiopia
-[2019-12-07] 16:52:33 start sheet 1 Import CIF:
-[2019-12-07] 16:52:34 Import Find Left Country:Ethiopia
-[2019-12-07] 16:52:34 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (66).xlsx
-[2019-12-07] 16:52:34 start sheet 0 Export FOB:
-[2019-12-07] 16:52:34 Export Find Left Country:Falkland Islands
-[2019-12-07] 16:52:34 start sheet 1 Import CIF:
-[2019-12-07] 16:52:34 Import Find Left Country:Falkland Islands
-[2019-12-07] 16:52:34 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (67).xlsx
-[2019-12-07] 16:52:34 start sheet 0 Export FOB:
-[2019-12-07] 16:52:34 Export Find Left Country:Faroe Islands
-[2019-12-07] 16:52:34 start sheet 1 Import CIF:
-[2019-12-07] 16:52:34 Import Find Left Country:Faroe Islands
-[2019-12-07] 16:52:34 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (68).xlsx
-[2019-12-07] 16:52:34 start sheet 0 Export FOB:
-[2019-12-07] 16:52:34 Export Find Left Country:Fiji
-[2019-12-07] 16:52:34 start sheet 1 Import CIF:
-[2019-12-07] 16:52:34 Import Find Left Country:Fiji
-[2019-12-07] 16:52:34 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (69).xlsx
-[2019-12-07] 16:52:34 start sheet 0 Export FOB:
-[2019-12-07] 16:52:34 Export Find Left Country:Finland
-[2019-12-07] 16:52:34 start sheet 1 Import CIF:
-[2019-12-07] 16:52:34 Import Find Left Country:Finland
-[2019-12-07] 16:52:34 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (7).xlsx
-[2019-12-07] 16:52:34 start sheet 0 Export FOB:
-[2019-12-07] 16:52:34 Export Find Left Country:Argentina
-[2019-12-07] 16:52:34 start sheet 1 Import CIF:
-[2019-12-07] 16:52:34 Import Find Left Country:Argentina
-[2019-12-07] 16:52:34 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (70).xlsx
-[2019-12-07] 16:52:34 start sheet 0 Export FOB:
-[2019-12-07] 16:52:34 Export Find Left Country:France
-[2019-12-07] 16:52:34 start sheet 1 Import CIF:
-[2019-12-07] 16:52:34 Import Find Left Country:France
-[2019-12-07] 16:52:34 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (71).xlsx
-[2019-12-07] 16:52:34 start sheet 0 Export FOB:
-[2019-12-07] 16:52:34 Export Find Left Country:French Polynesia
-[2019-12-07] 16:52:34 start sheet 1 Import CIF:
-[2019-12-07] 16:52:34 Import Find Left Country:French Polynesia
-[2019-12-07] 16:52:34 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (72).xlsx
-[2019-12-07] 16:52:34 start sheet 0 Export FOB:
-[2019-12-07] 16:52:34 Export Find Left Country:Gabon
-[2019-12-07] 16:52:34 start sheet 1 Import CIF:
-[2019-12-07] 16:52:34 Import Find Left Country:Gabon
-[2019-12-07] 16:52:34 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (73).xlsx
-[2019-12-07] 16:52:34 start sheet 0 Export FOB:
-[2019-12-07] 16:52:34 Export Find Left Country:Gambia, The
-[2019-12-07] 16:52:34 start sheet 1 Import CIF:
-[2019-12-07] 16:52:34 Import Find Left Country:Gambia, The
-[2019-12-07] 16:52:34 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (74).xlsx
-[2019-12-07] 16:52:34 start sheet 0 Export FOB:
-[2019-12-07] 16:52:34 Export Find Left Country:Georgia
-[2019-12-07] 16:52:34 start sheet 1 Import CIF:
-[2019-12-07] 16:52:34 Import Find Left Country:Georgia
-[2019-12-07] 16:52:34 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (75).xlsx
-[2019-12-07] 16:52:34 start sheet 0 Export FOB:
-[2019-12-07] 16:52:34 Export Find Left Country:Germany
-[2019-12-07] 16:52:34 start sheet 1 Import CIF:
-[2019-12-07] 16:52:34 Import Find Left Country:Germany
-[2019-12-07] 16:52:34 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (76).xlsx
-[2019-12-07] 16:52:34 start sheet 0 Export FOB:
-[2019-12-07] 16:52:34 Export Find Left Country:Ghana
-[2019-12-07] 16:52:34 start sheet 1 Import CIF:
-[2019-12-07] 16:52:34 Import Find Left Country:Ghana
-[2019-12-07] 16:52:34 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (77).xlsx
-[2019-12-07] 16:52:34 start sheet 0 Export FOB:
-[2019-12-07] 16:52:34 Export Find Left Country:Gibraltar
-[2019-12-07] 16:52:34 start sheet 1 Import CIF:
-[2019-12-07] 16:52:34 Import Find Left Country:Gibraltar
-[2019-12-07] 16:52:34 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (78).xlsx
-[2019-12-07] 16:52:34 start sheet 0 Export FOB:
-[2019-12-07] 16:52:34 Export Find Left Country:Greece
-[2019-12-07] 16:52:34 start sheet 1 Import CIF:
-[2019-12-07] 16:52:34 Import Find Left Country:Greece
-[2019-12-07] 16:52:34 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (79).xlsx
-[2019-12-07] 16:52:34 start sheet 0 Export FOB:
-[2019-12-07] 16:52:34 Export Find Left Country:Greenland
-[2019-12-07] 16:52:34 start sheet 1 Import CIF:
-[2019-12-07] 16:52:34 Import Find Left Country:Greenland
-[2019-12-07] 16:52:34 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (8).xlsx
-[2019-12-07] 16:52:34 start sheet 0 Export FOB:
-[2019-12-07] 16:52:34 Export Find Left Country:Argentina
-[2019-12-07] 16:52:34 start sheet 1 Import CIF:
-[2019-12-07] 16:52:34 Import Find Left Country:Argentina
-[2019-12-07] 16:52:34 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (80).xlsx
-[2019-12-07] 16:52:34 start sheet 0 Export FOB:
-[2019-12-07] 16:52:35 Export Find Left Country:Grenada
-[2019-12-07] 16:52:35 start sheet 1 Import CIF:
-[2019-12-07] 16:52:35 Import Find Left Country:Grenada
-[2019-12-07] 16:52:35 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (81).xlsx
-[2019-12-07] 16:52:35 start sheet 0 Export FOB:
-[2019-12-07] 16:52:35 Export Find Left Country:Guam
-[2019-12-07] 16:52:35 start sheet 1 Import CIF:
-[2019-12-07] 16:52:35 Import Find Left Country:Guam
-[2019-12-07] 16:52:35 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (82).xlsx
-[2019-12-07] 16:52:35 start sheet 0 Export FOB:
-[2019-12-07] 16:52:35 Export Find Left Country:Guatemala
-[2019-12-07] 16:52:35 start sheet 1 Import CIF:
-[2019-12-07] 16:52:35 Import Find Left Country:Guatemala
-[2019-12-07] 16:52:35 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (83).xlsx
-[2019-12-07] 16:52:35 start sheet 0 Export FOB:
-[2019-12-07] 16:52:35 Export Find Left Country:Guinea
-[2019-12-07] 16:52:35 start sheet 1 Import CIF:
-[2019-12-07] 16:52:35 Import Find Left Country:Guinea
-[2019-12-07] 16:52:35 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (84).xlsx
-[2019-12-07] 16:52:35 start sheet 0 Export FOB:
-[2019-12-07] 16:52:35 Export Find Left Country:Guinea-Bissau
-[2019-12-07] 16:52:35 start sheet 1 Import CIF:
-[2019-12-07] 16:52:35 Import Find Left Country:Guinea-Bissau
-[2019-12-07] 16:52:35 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (85).xlsx
-[2019-12-07] 16:52:35 start sheet 0 Export FOB:
-[2019-12-07] 16:52:35 Export Find Left Country:Guyana
-[2019-12-07] 16:52:35 start sheet 1 Import CIF:
-[2019-12-07] 16:52:35 Import Find Left Country:Guyana
-[2019-12-07] 16:52:35 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (86).xlsx
-[2019-12-07] 16:52:35 start sheet 0 Export FOB:
-[2019-12-07] 16:52:35 Export Find Left Country:Haiti
-[2019-12-07] 16:52:35 start sheet 1 Import CIF:
-[2019-12-07] 16:52:35 Import Find Left Country:Haiti
-[2019-12-07] 16:52:35 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (87).xlsx
-[2019-12-07] 16:52:35 start sheet 0 Export FOB:
-[2019-12-07] 16:52:35 Export Find Left Country:Honduras
-[2019-12-07] 16:52:35 start sheet 1 Import CIF:
-[2019-12-07] 16:52:35 Import Find Left Country:Honduras
-[2019-12-07] 16:52:35 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (88).xlsx
-[2019-12-07] 16:52:35 start sheet 0 Export FOB:
-[2019-12-07] 16:52:35 Export Find Left Country:Hungary
-[2019-12-07] 16:52:35 start sheet 1 Import CIF:
-[2019-12-07] 16:52:35 Import Find Left Country:Hungary
-[2019-12-07] 16:52:35 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (89).xlsx
-[2019-12-07] 16:52:35 start sheet 0 Export FOB:
-[2019-12-07] 16:52:35 Export Find Left Country:Iceland
-[2019-12-07] 16:52:35 start sheet 1 Import CIF:
-[2019-12-07] 16:52:35 Import Find Left Country:Iceland
-[2019-12-07] 16:52:35 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (9).xlsx
-[2019-12-07] 16:52:35 start sheet 0 Export FOB:
-[2019-12-07] 16:52:35 Export Find Left Country:Armenia
-[2019-12-07] 16:52:35 start sheet 1 Import CIF:
-[2019-12-07] 16:52:35 Import Find Left Country:Armenia
-[2019-12-07] 16:52:35 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (90).xlsx
-[2019-12-07] 16:52:35 start sheet 0 Export FOB:
-[2019-12-07] 16:52:35 Export Find Left Country:India
-[2019-12-07] 16:52:35 start sheet 1 Import CIF:
-[2019-12-07] 16:52:35 Import Find Left Country:India
-[2019-12-07] 16:52:35 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (91).xlsx
-[2019-12-07] 16:52:35 start sheet 0 Export FOB:
-[2019-12-07] 16:52:35 Export Find Left Country:Indonesia
-[2019-12-07] 16:52:35 start sheet 1 Import CIF:
-[2019-12-07] 16:52:35 Import Find Left Country:Indonesia
-[2019-12-07] 16:52:35 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (92).xlsx
-[2019-12-07] 16:52:35 start sheet 0 Export FOB:
-[2019-12-07] 16:52:35 Export Find Left Country:Iran, I.R. of
-[2019-12-07] 16:52:35 start sheet 1 Import CIF:
-[2019-12-07] 16:52:35 Import Find Left Country:Iran, I.R. of
-[2019-12-07] 16:52:35 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (93).xlsx
-[2019-12-07] 16:52:35 start sheet 0 Export FOB:
-[2019-12-07] 16:52:35 Export Find Left Country:Iraq
-[2019-12-07] 16:52:35 start sheet 1 Import CIF:
-[2019-12-07] 16:52:35 Import Find Left Country:Iraq
-[2019-12-07] 16:52:35 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (94).xlsx
-[2019-12-07] 16:52:35 start sheet 0 Export FOB:
-[2019-12-07] 16:52:35 Export Find Left Country:Ireland
-[2019-12-07] 16:52:35 start sheet 1 Import CIF:
-[2019-12-07] 16:52:35 Import Find Left Country:Ireland
-[2019-12-07] 16:52:35 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (95).xlsx
-[2019-12-07] 16:52:35 start sheet 0 Export FOB:
-[2019-12-07] 16:52:35 Export Find Left Country:Israel
-[2019-12-07] 16:52:35 start sheet 1 Import CIF:
-[2019-12-07] 16:52:35 Import Find Left Country:Israel
-[2019-12-07] 16:52:35 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (96).xlsx
-[2019-12-07] 16:52:35 start sheet 0 Export FOB:
-[2019-12-07] 16:52:35 Export Find Left Country:Italy
-[2019-12-07] 16:52:35 start sheet 1 Import CIF:
-[2019-12-07] 16:52:36 Import Find Left Country:Italy
-[2019-12-07] 16:52:36 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (97).xlsx
-[2019-12-07] 16:52:36 start sheet 0 Export FOB:
-[2019-12-07] 16:52:36 Export Find Left Country:Jamaica
-[2019-12-07] 16:52:36 start sheet 1 Import CIF:
-[2019-12-07] 16:52:36 Import Find Left Country:Jamaica
-[2019-12-07] 16:52:36 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (98).xlsx
-[2019-12-07] 16:52:36 start sheet 0 Export FOB:
-[2019-12-07] 16:52:36 Export Find Left Country:Japan
-[2019-12-07] 16:52:36 start sheet 1 Import CIF:
-[2019-12-07] 16:52:36 Import Find Left Country:Japan
-[2019-12-07] 16:52:36 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (99).xlsx
-[2019-12-07] 16:52:36 start sheet 0 Export FOB:
-[2019-12-07] 16:52:36 Export Find Left Country:Jordan
-[2019-12-07] 16:52:36 start sheet 1 Import CIF:
-[2019-12-07] 16:52:36 Import Find Left Country:Jordan
-[2019-12-07] 16:52:36 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T121843.921.xlsx
-[2019-12-07] 16:52:36 start sheet 0 Export FOB:
-[2019-12-07] 16:52:36 Export Find Left Country:Kenya
-[2019-12-07] 16:52:36 start sheet 1 Import CIF:
-[2019-12-07] 16:52:36 Import Find Left Country:Kenya
-[2019-12-07] 16:52:36 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T121851.501.xlsx
-[2019-12-07] 16:52:36 start sheet 0 Export FOB:
-[2019-12-07] 16:52:36 Export Find Left Country:Kiribati
-[2019-12-07] 16:52:36 start sheet 1 Import CIF:
-[2019-12-07] 16:52:36 Import Find Left Country:Kiribati
-[2019-12-07] 16:52:36 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T121858.174.xlsx
-[2019-12-07] 16:52:36 start sheet 0 Export FOB:
-[2019-12-07] 16:52:36 Export Find Left Country:Korea, Republic of
-[2019-12-07] 16:52:36 start sheet 1 Import CIF:
-[2019-12-07] 16:52:36 Import Find Left Country:Korea, Republic of
-[2019-12-07] 16:52:36 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T121906.484.xlsx
-[2019-12-07] 16:52:36 start sheet 0 Export FOB:
-[2019-12-07] 16:52:36 Export Find Left Country:Kosovo, Republic of
-[2019-12-07] 16:52:36 start sheet 1 Import CIF:
-[2019-12-07] 16:52:36 Import Find Left Country:Kosovo, Republic of
-[2019-12-07] 16:52:36 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T121913.850.xlsx
-[2019-12-07] 16:52:36 start sheet 0 Export FOB:
-[2019-12-07] 16:52:36 Export Find Left Country:Kuwait
-[2019-12-07] 16:52:36 start sheet 1 Import CIF:
-[2019-12-07] 16:52:36 Import Find Left Country:Kuwait
-[2019-12-07] 16:52:36 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T121920.440.xlsx
-[2019-12-07] 16:52:36 start sheet 0 Export FOB:
-[2019-12-07] 16:52:36 Export Find Left Country:Kyrgyz Republic
-[2019-12-07] 16:52:36 start sheet 1 Import CIF:
-[2019-12-07] 16:52:36 Import Find Left Country:Kyrgyz Republic
-[2019-12-07] 16:52:36 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T121927.199.xlsx
-[2019-12-07] 16:52:36 start sheet 0 Export FOB:
-[2019-12-07] 16:52:36 Export Find Left Country:Lao People's Dem.Rep
-[2019-12-07] 16:52:36 start sheet 1 Import CIF:
-[2019-12-07] 16:52:36 Import Find Left Country:Lao People's Dem.Rep
-[2019-12-07] 16:52:36 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T121934.946.xlsx
-[2019-12-07] 16:52:36 start sheet 0 Export FOB:
-[2019-12-07] 16:52:36 Export Find Left Country:Latvia
-[2019-12-07] 16:52:36 start sheet 1 Import CIF:
-[2019-12-07] 16:52:36 Import Find Left Country:Latvia
-[2019-12-07] 16:52:36 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T121941.765.xlsx
-[2019-12-07] 16:52:36 start sheet 0 Export FOB:
-[2019-12-07] 16:52:36 Export Find Left Country:Lebanon
-[2019-12-07] 16:52:36 start sheet 1 Import CIF:
-[2019-12-07] 16:52:36 Import Find Left Country:Lebanon
-[2019-12-07] 16:52:36 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T121948.048.xlsx
-[2019-12-07] 16:52:36 start sheet 0 Export FOB:
-[2019-12-07] 16:52:36 Export Find Left Country:Lesotho
-[2019-12-07] 16:52:36 start sheet 1 Import CIF:
-[2019-12-07] 16:52:36 Import Find Left Country:Lesotho
-[2019-12-07] 16:52:36 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T121953.729.xlsx
-[2019-12-07] 16:52:36 start sheet 0 Export FOB:
-[2019-12-07] 16:52:36 Export Find Left Country:Liberia
-[2019-12-07] 16:52:36 start sheet 1 Import CIF:
-[2019-12-07] 16:52:36 Import Find Left Country:Liberia
-[2019-12-07] 16:52:36 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122000.553.xlsx
-[2019-12-07] 16:52:36 start sheet 0 Export FOB:
-[2019-12-07] 16:52:36 Export Find Left Country:Libya
-[2019-12-07] 16:52:36 start sheet 1 Import CIF:
-[2019-12-07] 16:52:36 Import Find Left Country:Libya
-[2019-12-07] 16:52:36 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122008.166.xlsx
-[2019-12-07] 16:52:36 start sheet 0 Export FOB:
-[2019-12-07] 16:52:36 Export Find Left Country:Lithuania
-[2019-12-07] 16:52:36 start sheet 1 Import CIF:
-[2019-12-07] 16:52:36 Import Find Left Country:Lithuania
-[2019-12-07] 16:52:36 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122125.604.xlsx
-[2019-12-07] 16:52:36 start sheet 0 Export FOB:
-[2019-12-07] 16:52:36 Export Find Left Country:Luxembourg
-[2019-12-07] 16:52:36 start sheet 1 Import CIF:
-[2019-12-07] 16:52:37 Import Find Left Country:Luxembourg
-[2019-12-07] 16:52:37 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122134.898.xlsx
-[2019-12-07] 16:52:37 start sheet 0 Export FOB:
-[2019-12-07] 16:52:37 Export Find Left Country:Madagascar
-[2019-12-07] 16:52:37 start sheet 1 Import CIF:
-[2019-12-07] 16:52:37 Import Find Left Country:Madagascar
-[2019-12-07] 16:52:37 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122145.337.xlsx
-[2019-12-07] 16:52:37 start sheet 0 Export FOB:
-[2019-12-07] 16:52:37 Export Find Left Country:Malawi
-[2019-12-07] 16:52:37 start sheet 1 Import CIF:
-[2019-12-07] 16:52:37 Import Find Left Country:Malawi
-[2019-12-07] 16:52:37 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122153.314.xlsx
-[2019-12-07] 16:52:37 start sheet 0 Export FOB:
-[2019-12-07] 16:52:37 Export Find Left Country:Malaysia
-[2019-12-07] 16:52:37 start sheet 1 Import CIF:
-[2019-12-07] 16:52:37 Import Find Left Country:Malaysia
-[2019-12-07] 16:52:37 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122210.464.xlsx
-[2019-12-07] 16:52:37 start sheet 0 Export FOB:
-[2019-12-07] 16:52:37 Export Find Left Country:Maldives
-[2019-12-07] 16:52:37 start sheet 1 Import CIF:
-[2019-12-07] 16:52:37 Import Find Left Country:Maldives
-[2019-12-07] 16:52:37 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122220.633.xlsx
-[2019-12-07] 16:52:37 start sheet 0 Export FOB:
-[2019-12-07] 16:52:37 Export Find Left Country:Mali
-[2019-12-07] 16:52:37 start sheet 1 Import CIF:
-[2019-12-07] 16:52:37 Import Find Left Country:Mali
-[2019-12-07] 16:52:37 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122232.993.xlsx
-[2019-12-07] 16:52:37 start sheet 0 Export FOB:
-[2019-12-07] 16:52:37 Export Find Left Country:Malta
-[2019-12-07] 16:52:37 start sheet 1 Import CIF:
-[2019-12-07] 16:52:37 Import Find Left Country:Malta
-[2019-12-07] 16:52:37 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122246.468.xlsx
-[2019-12-07] 16:52:37 start sheet 0 Export FOB:
-[2019-12-07] 16:52:37 Export Find Left Country:Marshall Islands
-[2019-12-07] 16:52:37 start sheet 1 Import CIF:
-[2019-12-07] 16:52:37 Import Find Left Country:Marshall Islands
-[2019-12-07] 16:52:37 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122257.370.xlsx
-[2019-12-07] 16:52:37 start sheet 0 Export FOB:
-[2019-12-07] 16:52:37 Export Find Left Country:Mauritania
-[2019-12-07] 16:52:37 start sheet 1 Import CIF:
-[2019-12-07] 16:52:37 Import Find Left Country:Mauritania
-[2019-12-07] 16:52:37 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122306.168.xlsx
-[2019-12-07] 16:52:37 start sheet 0 Export FOB:
-[2019-12-07] 16:52:37 Export Find Left Country:Mauritania
-[2019-12-07] 16:52:37 start sheet 1 Import CIF:
-[2019-12-07] 16:52:37 Import Find Left Country:Mauritania
-[2019-12-07] 16:52:37 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122314.901.xlsx
-[2019-12-07] 16:52:37 start sheet 0 Export FOB:
-[2019-12-07] 16:52:37 Export Find Left Country:Mauritius
-[2019-12-07] 16:52:37 start sheet 1 Import CIF:
-[2019-12-07] 16:52:37 Import Find Left Country:Mauritius
-[2019-12-07] 16:52:37 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122328.602.xlsx
-[2019-12-07] 16:52:37 start sheet 0 Export FOB:
-[2019-12-07] 16:52:37 Export Find Left Country:Mexico
-[2019-12-07] 16:52:37 start sheet 1 Import CIF:
-[2019-12-07] 16:52:37 Import Find Left Country:Mexico
-[2019-12-07] 16:52:37 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122341.251.xlsx
-[2019-12-07] 16:52:37 start sheet 0 Export FOB:
-[2019-12-07] 16:52:37 Export Find Left Country:Micronesia
-[2019-12-07] 16:52:37 start sheet 1 Import CIF:
-[2019-12-07] 16:52:37 Import Find Left Country:Micronesia
-[2019-12-07] 16:52:37 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122355.243.xlsx
-[2019-12-07] 16:52:37 start sheet 0 Export FOB:
-[2019-12-07] 16:52:37 Export Find Left Country:Moldova
-[2019-12-07] 16:52:37 start sheet 1 Import CIF:
-[2019-12-07] 16:52:37 Import Find Left Country:Moldova
-[2019-12-07] 16:52:37 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122404.312.xlsx
-[2019-12-07] 16:52:37 start sheet 0 Export FOB:
-[2019-12-07] 16:52:37 Export Find Left Country:Mongolia
-[2019-12-07] 16:52:37 start sheet 1 Import CIF:
-[2019-12-07] 16:52:37 Import Find Left Country:Mongolia
-[2019-12-07] 16:52:37 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122420.704.xlsx
-[2019-12-07] 16:52:37 start sheet 0 Export FOB:
-[2019-12-07] 16:52:37 Export Find Left Country:Montenegro
-[2019-12-07] 16:52:37 start sheet 1 Import CIF:
-[2019-12-07] 16:52:37 Import Find Left Country:Montenegro
-[2019-12-07] 16:52:37 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122430.952.xlsx
-[2019-12-07] 16:52:37 start sheet 0 Export FOB:
-[2019-12-07] 16:52:37 Export Find Left Country:Montserrat
-[2019-12-07] 16:52:37 start sheet 1 Import CIF:
-[2019-12-07] 16:52:37 Import Find Left Country:Montserrat
-[2019-12-07] 16:52:37 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122443.066.xlsx
-[2019-12-07] 16:52:37 start sheet 0 Export FOB:
-[2019-12-07] 16:52:37 Export Find Left Country:Morocco
-[2019-12-07] 16:52:37 start sheet 1 Import CIF:
-[2019-12-07] 16:52:37 Import Find Left Country:Morocco
-[2019-12-07] 16:52:37 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122452.618.xlsx
-[2019-12-07] 16:52:37 start sheet 0 Export FOB:
-[2019-12-07] 16:52:37 Export Find Left Country:Mozambique
-[2019-12-07] 16:52:37 start sheet 1 Import CIF:
-[2019-12-07] 16:52:37 Import Find Left Country:Mozambique
-[2019-12-07] 16:52:37 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122502.999.xlsx
-[2019-12-07] 16:52:37 start sheet 0 Export FOB:
-[2019-12-07] 16:52:38 Export Find Left Country:Myanmar
-[2019-12-07] 16:52:38 start sheet 1 Import CIF:
-[2019-12-07] 16:52:38 Import Find Left Country:Myanmar
-[2019-12-07] 16:52:38 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122513.675.xlsx
-[2019-12-07] 16:52:38 start sheet 0 Export FOB:
-[2019-12-07] 16:52:38 Export Find Left Country:Namibia
-[2019-12-07] 16:52:38 start sheet 1 Import CIF:
-[2019-12-07] 16:52:38 Import Find Left Country:Namibia
-[2019-12-07] 16:52:38 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122523.833.xlsx
-[2019-12-07] 16:52:38 start sheet 0 Export FOB:
-[2019-12-07] 16:52:38 Export Find Left Country:Nauru
-[2019-12-07] 16:52:38 start sheet 1 Import CIF:
-[2019-12-07] 16:52:38 Import Find Left Country:Nauru
-[2019-12-07] 16:52:38 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122533.430.xlsx
-[2019-12-07] 16:52:38 start sheet 0 Export FOB:
-[2019-12-07] 16:52:38 Export Find Left Country:Nepal
-[2019-12-07] 16:52:38 start sheet 1 Import CIF:
-[2019-12-07] 16:52:38 Import Find Left Country:Nepal
-[2019-12-07] 16:52:38 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122547.123.xlsx
-[2019-12-07] 16:52:38 start sheet 0 Export FOB:
-[2019-12-07] 16:52:38 Export Find Left Country:Netherlands
-[2019-12-07] 16:52:38 start sheet 1 Import CIF:
-[2019-12-07] 16:52:38 Import Find Left Country:Netherlands
-[2019-12-07] 16:52:38 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122556.024.xlsx
-[2019-12-07] 16:52:38 start sheet 0 Export FOB:
-[2019-12-07] 16:52:38 Export Find Left Country:Netherlands Antilles
-[2019-12-07] 16:52:38 start sheet 1 Import CIF:
-[2019-12-07] 16:52:38 Import Find Left Country:Netherlands Antilles
-[2019-12-07] 16:52:38 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122610.496.xlsx
-[2019-12-07] 16:52:38 start sheet 0 Export FOB:
-[2019-12-07] 16:52:38 Export Find Left Country:New Caledonia
-[2019-12-07] 16:52:38 start sheet 1 Import CIF:
-[2019-12-07] 16:52:38 Import Find Left Country:New Caledonia
-[2019-12-07] 16:52:38 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122618.233.xlsx
-[2019-12-07] 16:52:38 start sheet 0 Export FOB:
-[2019-12-07] 16:52:38 Export Find Left Country:New Zealand
-[2019-12-07] 16:52:38 start sheet 1 Import CIF:
-[2019-12-07] 16:52:38 Import Find Left Country:New Zealand
-[2019-12-07] 16:52:38 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122632.844.xlsx
-[2019-12-07] 16:52:38 start sheet 0 Export FOB:
-[2019-12-07] 16:52:38 Export Find Left Country:Nicaragua
-[2019-12-07] 16:52:38 start sheet 1 Import CIF:
-[2019-12-07] 16:52:38 Import Find Left Country:Nicaragua
-[2019-12-07] 16:52:38 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122644.747.xlsx
-[2019-12-07] 16:52:38 start sheet 0 Export FOB:
-[2019-12-07] 16:52:38 Export Find Left Country:Niger
-[2019-12-07] 16:52:38 start sheet 1 Import CIF:
-[2019-12-07] 16:52:38 Import Find Left Country:Niger
-[2019-12-07] 16:52:38 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122658.384.xlsx
-[2019-12-07] 16:52:38 start sheet 0 Export FOB:
-[2019-12-07] 16:52:38 Export Find Left Country:Nigeria
-[2019-12-07] 16:52:38 start sheet 1 Import CIF:
-[2019-12-07] 16:52:38 Import Find Left Country:Nigeria
-[2019-12-07] 16:52:38 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122906.759.xlsx
-[2019-12-07] 16:52:38 start sheet 0 Export FOB:
-[2019-12-07] 16:52:38 Export Find Left Country:Nigeria
-[2019-12-07] 16:52:38 start sheet 1 Import CIF:
-[2019-12-07] 16:52:38 Import Find Left Country:Nigeria
-[2019-12-07] 16:52:38 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122918.291.xlsx
-[2019-12-07] 16:52:38 start sheet 0 Export FOB:
-[2019-12-07] 16:52:38 Export Find Left Country:North Korea
-[2019-12-07] 16:52:38 start sheet 1 Import CIF:
-[2019-12-07] 16:52:38 Import Find Left Country:North Korea
-[2019-12-07] 16:52:38 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122929.761.xlsx
-[2019-12-07] 16:52:38 start sheet 0 Export FOB:
-[2019-12-07] 16:52:38 Export Find Left Country:North Macedonia, Republic of
-[2019-12-07] 16:52:38 start sheet 1 Import CIF:
-[2019-12-07] 16:52:38 Import Find Left Country:North Macedonia, Republic of
-[2019-12-07] 16:52:38 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123001.053.xlsx
-[2019-12-07] 16:52:38 start sheet 0 Export FOB:
-[2019-12-07] 16:52:38 Export Find Left Country:Norway
-[2019-12-07] 16:52:38 start sheet 1 Import CIF:
-[2019-12-07] 16:52:38 Import Find Left Country:Norway
-[2019-12-07] 16:52:38 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123124.167.xlsx
-[2019-12-07] 16:52:38 start sheet 0 Export FOB:
-[2019-12-07] 16:52:38 Export Find Left Country:Norway
-[2019-12-07] 16:52:38 start sheet 1 Import CIF:
-[2019-12-07] 16:52:38 Import Find Left Country:Norway
-[2019-12-07] 16:52:38 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123135.127.xlsx
-[2019-12-07] 16:52:38 start sheet 0 Export FOB:
-[2019-12-07] 16:52:38 Export Find Left Country:Oman
-[2019-12-07] 16:52:38 start sheet 1 Import CIF:
-[2019-12-07] 16:52:39 Import Find Left Country:Oman
-[2019-12-07] 16:52:39 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123232.750.xlsx
-[2019-12-07] 16:52:39 start sheet 0 Export FOB:
-[2019-12-07] 16:52:39 Export Find Left Country:Oman
-[2019-12-07] 16:52:39 start sheet 1 Import CIF:
-[2019-12-07] 16:52:39 Import Find Left Country:Oman
-[2019-12-07] 16:52:39 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123245.492.xlsx
-[2019-12-07] 16:52:39 start sheet 0 Export FOB:
-[2019-12-07] 16:52:39 Export Find Left Country:Pakistan
-[2019-12-07] 16:52:39 start sheet 1 Import CIF:
-[2019-12-07] 16:52:39 Import Find Left Country:Pakistan
-[2019-12-07] 16:52:39 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123257.579.xlsx
-[2019-12-07] 16:52:39 start sheet 0 Export FOB:
-[2019-12-07] 16:52:39 Export Find Left Country:Palau
-[2019-12-07] 16:52:39 start sheet 1 Import CIF:
-[2019-12-07] 16:52:39 Import Find Left Country:Palau
-[2019-12-07] 16:52:39 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123401.878.xlsx
-[2019-12-07] 16:52:39 start sheet 0 Export FOB:
-[2019-12-07] 16:52:39 Export Find Left Country:Panama
-[2019-12-07] 16:52:39 start sheet 1 Import CIF:
-[2019-12-07] 16:52:39 Import Find Left Country:Panama
-[2019-12-07] 16:52:39 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123419.928.xlsx
-[2019-12-07] 16:52:39 start sheet 0 Export FOB:
-[2019-12-07] 16:52:39 Export Find Left Country:Papua New Guinea
-[2019-12-07] 16:52:39 start sheet 1 Import CIF:
-[2019-12-07] 16:52:39 Import Find Left Country:Papua New Guinea
-[2019-12-07] 16:52:39 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123431.839.xlsx
-[2019-12-07] 16:52:39 start sheet 0 Export FOB:
-[2019-12-07] 16:52:39 Export Find Left Country:Paraguay
-[2019-12-07] 16:52:39 start sheet 1 Import CIF:
-[2019-12-07] 16:52:39 Import Find Left Country:Paraguay
-[2019-12-07] 16:52:39 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123444.992.xlsx
-[2019-12-07] 16:52:39 start sheet 0 Export FOB:
-[2019-12-07] 16:52:39 Export Find Left Country:Peru
-[2019-12-07] 16:52:39 start sheet 1 Import CIF:
-[2019-12-07] 16:52:39 Import Find Left Country:Peru
-[2019-12-07] 16:52:39 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123500.941.xlsx
-[2019-12-07] 16:52:39 start sheet 0 Export FOB:
-[2019-12-07] 16:52:39 Export Find Left Country:Philippines
-[2019-12-07] 16:52:39 start sheet 1 Import CIF:
-[2019-12-07] 16:52:39 Import Find Left Country:Philippines
-[2019-12-07] 16:52:39 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123554.198.xlsx
-[2019-12-07] 16:52:39 start sheet 0 Export FOB:
-[2019-12-07] 16:52:39 Export Find Left Country:Philippines
-[2019-12-07] 16:52:39 start sheet 1 Import CIF:
-[2019-12-07] 16:52:39 Import Find Left Country:Philippines
-[2019-12-07] 16:52:39 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123603.486.xlsx
-[2019-12-07] 16:52:39 start sheet 0 Export FOB:
-[2019-12-07] 16:52:39 Export Find Left Country:Poland
-[2019-12-07] 16:52:39 start sheet 1 Import CIF:
-[2019-12-07] 16:52:39 Import Find Left Country:Poland
-[2019-12-07] 16:52:39 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123611.450.xlsx
-[2019-12-07] 16:52:39 start sheet 0 Export FOB:
-[2019-12-07] 16:52:39 Export Find Left Country:Portugal
-[2019-12-07] 16:52:39 start sheet 1 Import CIF:
-[2019-12-07] 16:52:39 Import Find Left Country:Portugal
-[2019-12-07] 16:52:39 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123622.989.xlsx
-[2019-12-07] 16:52:39 start sheet 0 Export FOB:
-[2019-12-07] 16:52:39 Export Find Left Country:Qatar
-[2019-12-07] 16:52:39 start sheet 1 Import CIF:
-[2019-12-07] 16:52:39 Import Find Left Country:Qatar
-[2019-12-07] 16:52:39 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123638.341.xlsx
-[2019-12-07] 16:52:39 start sheet 0 Export FOB:
-[2019-12-07] 16:52:39 Export Find Left Country:Romania
-[2019-12-07] 16:52:39 start sheet 1 Import CIF:
-[2019-12-07] 16:52:39 Import Find Left Country:Romania
-[2019-12-07] 16:52:39 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123650.156.xlsx
-[2019-12-07] 16:52:39 start sheet 0 Export FOB:
-[2019-12-07] 16:52:39 Export Find Left Country:Russian Federation
-[2019-12-07] 16:52:39 start sheet 1 Import CIF:
-[2019-12-07] 16:52:39 Import Find Left Country:Russian Federation
-[2019-12-07] 16:52:39 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123704.849.xlsx
-[2019-12-07] 16:52:39 start sheet 0 Export FOB:
-[2019-12-07] 16:52:39 Export Find Left Country:Rwanda
-[2019-12-07] 16:52:39 start sheet 1 Import CIF:
-[2019-12-07] 16:52:39 Import Find Left Country:Rwanda
-[2019-12-07] 16:52:39 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123736.038.xlsx
-[2019-12-07] 16:52:39 start sheet 0 Export FOB:
-[2019-12-07] 16:52:39 Export Find Left Country:Rwanda
-[2019-12-07] 16:52:39 start sheet 1 Import CIF:
-[2019-12-07] 16:52:40 Import Find Left Country:Rwanda
-[2019-12-07] 16:52:40 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123750.832.xlsx
-[2019-12-07] 16:52:40 start sheet 0 Export FOB:
-[2019-12-07] 16:52:40 Export Find Left Country:Samoa
-[2019-12-07] 16:52:40 start sheet 1 Import CIF:
-[2019-12-07] 16:52:40 Import Find Left Country:Samoa
-[2019-12-07] 16:52:40 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123758.847.xlsx
-[2019-12-07] 16:52:40 start sheet 0 Export FOB:
-[2019-12-07] 16:52:40 Export Find Left Country:San Marino
-[2019-12-07] 16:52:40 start sheet 1 Import CIF:
-[2019-12-07] 16:52:40 Import Find Left Country:San Marino
-[2019-12-07] 16:52:40 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123814.999.xlsx
-[2019-12-07] 16:52:40 start sheet 0 Export FOB:
-[2019-12-07] 16:52:40 Export Find Left Country:São Tomé & Príncipe
-[2019-12-07] 16:52:40 start sheet 1 Import CIF:
-[2019-12-07] 16:52:40 Import Find Left Country:São Tomé & Príncipe
-[2019-12-07] 16:52:40 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123831.733.xlsx
-[2019-12-07] 16:52:40 start sheet 0 Export FOB:
-[2019-12-07] 16:52:40 Export Find Left Country:Saudi Arabia
-[2019-12-07] 16:52:40 start sheet 1 Import CIF:
-[2019-12-07] 16:52:40 Import Find Left Country:Saudi Arabia
-[2019-12-07] 16:52:40 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123844.040.xlsx
-[2019-12-07] 16:52:40 start sheet 0 Export FOB:
-[2019-12-07] 16:52:40 Export Find Left Country:Senegal
-[2019-12-07] 16:52:40 start sheet 1 Import CIF:
-[2019-12-07] 16:52:40 Import Find Left Country:Senegal
-[2019-12-07] 16:52:40 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123906.223.xlsx
-[2019-12-07] 16:52:40 start sheet 0 Export FOB:
-[2019-12-07] 16:52:40 Export Find Left Country:Serbia, Republic of
-[2019-12-07] 16:52:40 start sheet 1 Import CIF:
-[2019-12-07] 16:52:40 Import Find Left Country:Serbia, Republic of
-[2019-12-07] 16:52:40 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123915.252.xlsx
-[2019-12-07] 16:52:40 start sheet 0 Export FOB:
-[2019-12-07] 16:52:40 Export Find Left Country:Seychelles
-[2019-12-07] 16:52:40 start sheet 1 Import CIF:
-[2019-12-07] 16:52:40 Import Find Left Country:Seychelles
-[2019-12-07] 16:52:40 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123923.399.xlsx
-[2019-12-07] 16:52:40 start sheet 0 Export FOB:
-[2019-12-07] 16:52:40 Export Find Left Country:Sierra Leone
-[2019-12-07] 16:52:40 start sheet 1 Import CIF:
-[2019-12-07] 16:52:40 Import Find Left Country:Sierra Leone
-[2019-12-07] 16:52:40 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123934.690.xlsx
-[2019-12-07] 16:52:40 start sheet 0 Export FOB:
-[2019-12-07] 16:52:40 Export Find Left Country:Singapore
-[2019-12-07] 16:52:40 start sheet 1 Import CIF:
-[2019-12-07] 16:52:40 Import Find Left Country:Singapore
-[2019-12-07] 16:52:40 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123948.607.xlsx
-[2019-12-07] 16:52:40 start sheet 0 Export FOB:
-[2019-12-07] 16:52:40 Export Find Left Country:Sint Maarten
-[2019-12-07] 16:52:40 start sheet 1 Import CIF:
-[2019-12-07] 16:52:40 Import Find Left Country:Sint Maarten
-[2019-12-07] 16:52:40 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123959.785.xlsx
-[2019-12-07] 16:52:40 start sheet 0 Export FOB:
-[2019-12-07] 16:52:40 Export Find Left Country:Slovak Republic
-[2019-12-07] 16:52:40 start sheet 1 Import CIF:
-[2019-12-07] 16:52:40 Import Find Left Country:Slovak Republic
-[2019-12-07] 16:52:40 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124013.576.xlsx
-[2019-12-07] 16:52:40 start sheet 0 Export FOB:
-[2019-12-07] 16:52:40 Export Find Left Country:Slovenia
-[2019-12-07] 16:52:40 start sheet 1 Import CIF:
-[2019-12-07] 16:52:40 Import Find Left Country:Slovenia
-[2019-12-07] 16:52:40 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124023.499.xlsx
-[2019-12-07] 16:52:40 start sheet 0 Export FOB:
-[2019-12-07] 16:52:40 Export Find Left Country:Solomon Islands
-[2019-12-07] 16:52:40 start sheet 1 Import CIF:
-[2019-12-07] 16:52:40 Import Find Left Country:Solomon Islands
-[2019-12-07] 16:52:40 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124036.610.xlsx
-[2019-12-07] 16:52:40 start sheet 0 Export FOB:
-[2019-12-07] 16:52:40 Export Find Left Country:Somalia
-[2019-12-07] 16:52:40 start sheet 1 Import CIF:
-[2019-12-07] 16:52:40 Import Find Left Country:Somalia
-[2019-12-07] 16:52:40 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124051.034.xlsx
-[2019-12-07] 16:52:40 start sheet 0 Export FOB:
-[2019-12-07] 16:52:40 Export Find Left Country:South Africa
-[2019-12-07] 16:52:40 start sheet 1 Import CIF:
-[2019-12-07] 16:52:40 Import Find Left Country:South Africa
-[2019-12-07] 16:52:40 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124113.662.xlsx
-[2019-12-07] 16:52:40 start sheet 0 Export FOB:
-[2019-12-07] 16:52:40 Export Find Left Country:South Sudan, Rep. of
-[2019-12-07] 16:52:40 start sheet 1 Import CIF:
-[2019-12-07] 16:52:40 Import Find Left Country:South Sudan, Rep. of
-[2019-12-07] 16:52:40 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124125.230.xlsx
-[2019-12-07] 16:52:40 start sheet 0 Export FOB:
-[2019-12-07] 16:52:40 Export Find Left Country:Spain
-[2019-12-07] 16:52:40 start sheet 1 Import CIF:
-[2019-12-07] 16:52:40 Import Find Left Country:Spain
-[2019-12-07] 16:52:40 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124148.494.xlsx
-[2019-12-07] 16:52:40 start sheet 0 Export FOB:
-[2019-12-07] 16:52:40 Export Find Left Country:Sri Lanka
-[2019-12-07] 16:52:40 start sheet 1 Import CIF:
-[2019-12-07] 16:52:40 Import Find Left Country:Sri Lanka
-[2019-12-07] 16:52:40 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124159.166.xlsx
-[2019-12-07] 16:52:40 start sheet 0 Export FOB:
-[2019-12-07] 16:52:41 Export Find Left Country:St. Kitts and Nevis
-[2019-12-07] 16:52:41 start sheet 1 Import CIF:
-[2019-12-07] 16:52:41 Import Find Left Country:St. Kitts and Nevis
-[2019-12-07] 16:52:41 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124210.221.xlsx
-[2019-12-07] 16:52:41 start sheet 0 Export FOB:
-[2019-12-07] 16:52:41 Export Find Left Country:St. Lucia
-[2019-12-07] 16:52:41 start sheet 1 Import CIF:
-[2019-12-07] 16:52:41 Import Find Left Country:St. Lucia
-[2019-12-07] 16:52:41 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124219.495.xlsx
-[2019-12-07] 16:52:41 start sheet 0 Export FOB:
-[2019-12-07] 16:52:41 Export Find Left Country:St. Vincent & Grens.
-[2019-12-07] 16:52:41 start sheet 1 Import CIF:
-[2019-12-07] 16:52:41 Import Find Left Country:St. Vincent & Grens.
-[2019-12-07] 16:52:41 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124247.837.xlsx
-[2019-12-07] 16:52:41 start sheet 0 Export FOB:
-[2019-12-07] 16:52:41 Export Find Left Country:Sudan
-[2019-12-07] 16:52:41 start sheet 1 Import CIF:
-[2019-12-07] 16:52:41 Import Find Left Country:Sudan
-[2019-12-07] 16:52:41 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124307.571.xlsx
-[2019-12-07] 16:52:41 start sheet 0 Export FOB:
-[2019-12-07] 16:52:41 Export Find Left Country:Suriname
-[2019-12-07] 16:52:41 start sheet 1 Import CIF:
-[2019-12-07] 16:52:41 Import Find Left Country:Suriname
-[2019-12-07] 16:52:41 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124319.615.xlsx
-[2019-12-07] 16:52:41 start sheet 0 Export FOB:
-[2019-12-07] 16:52:41 Export Find Left Country:Sweden
-[2019-12-07] 16:52:41 start sheet 1 Import CIF:
-[2019-12-07] 16:52:41 Import Find Left Country:Sweden
-[2019-12-07] 16:52:41 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124344.384.xlsx
-[2019-12-07] 16:52:41 start sheet 0 Export FOB:
-[2019-12-07] 16:52:41 Export Find Left Country:Switzerland
-[2019-12-07] 16:52:41 start sheet 1 Import CIF:
-[2019-12-07] 16:52:41 Import Find Left Country:Switzerland
-[2019-12-07] 16:52:41 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124407.787.xlsx
-[2019-12-07] 16:52:41 start sheet 0 Export FOB:
-[2019-12-07] 16:52:41 Export Find Left Country:Syrian Arab Republic
-[2019-12-07] 16:52:41 start sheet 1 Import CIF:
-[2019-12-07] 16:52:41 Import Find Left Country:Syrian Arab Republic
-[2019-12-07] 16:52:41 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124423.923.xlsx
-[2019-12-07] 16:52:41 start sheet 0 Export FOB:
-[2019-12-07] 16:52:41 Export Find Left Country:Syrian Arab Republic
-[2019-12-07] 16:52:41 start sheet 1 Import CIF:
-[2019-12-07] 16:52:41 Import Find Left Country:Syrian Arab Republic
-[2019-12-07] 16:52:41 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124442.360.xlsx
-[2019-12-07] 16:52:41 start sheet 0 Export FOB:
-[2019-12-07] 16:52:41 Export Find Left Country:Tajikistan
-[2019-12-07] 16:52:41 start sheet 1 Import CIF:
-[2019-12-07] 16:52:41 Import Find Left Country:Tajikistan
-[2019-12-07] 16:52:41 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124446.732.xlsx
-[2019-12-07] 16:52:41 start sheet 0 Export FOB:
-[2019-12-07] 16:52:41 Export Find Left Country:Tajikistan
-[2019-12-07] 16:52:41 start sheet 1 Import CIF:
-[2019-12-07] 16:52:41 Import Find Left Country:Tajikistan
-[2019-12-07] 16:52:41 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124519.090.xlsx
-[2019-12-07] 16:52:41 start sheet 0 Export FOB:
-[2019-12-07] 16:52:41 Export Find Left Country:Tanzania
-[2019-12-07] 16:52:41 start sheet 1 Import CIF:
-[2019-12-07] 16:52:41 Import Find Left Country:Tanzania
-[2019-12-07] 16:52:41 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124532.256.xlsx
-[2019-12-07] 16:52:41 start sheet 0 Export FOB:
-[2019-12-07] 16:52:41 Export Find Left Country:Tanzania
-[2019-12-07] 16:52:41 start sheet 1 Import CIF:
-[2019-12-07] 16:52:41 Import Find Left Country:Tanzania
-[2019-12-07] 16:52:41 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124547.458.xlsx
-[2019-12-07] 16:52:41 start sheet 0 Export FOB:
-[2019-12-07] 16:52:41 Export Find Left Country:Thailand
-[2019-12-07] 16:52:41 start sheet 1 Import CIF:
-[2019-12-07] 16:52:41 Import Find Left Country:Thailand
-[2019-12-07] 16:52:41 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124728.164.xlsx
-[2019-12-07] 16:52:41 start sheet 0 Export FOB:
-[2019-12-07] 16:52:41 Export Find Left Country:Thailand
-[2019-12-07] 16:52:41 start sheet 1 Import CIF:
-[2019-12-07] 16:52:41 Import Find Left Country:Thailand
-[2019-12-07] 16:52:41 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124759.499.xlsx
-[2019-12-07] 16:52:41 start sheet 0 Export FOB:
-[2019-12-07] 16:52:41 Export Find Left Country:Timor-Leste
-[2019-12-07] 16:52:41 start sheet 1 Import CIF:
-[2019-12-07] 16:52:41 Import Find Left Country:Timor-Leste
-[2019-12-07] 16:52:41 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124817.381.xlsx
-[2019-12-07] 16:52:41 start sheet 0 Export FOB:
-[2019-12-07] 16:52:41 Export Find Left Country:Togo
-[2019-12-07] 16:52:41 start sheet 1 Import CIF:
-[2019-12-07] 16:52:41 Import Find Left Country:Togo
-[2019-12-07] 16:52:41 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124826.807.xlsx
-[2019-12-07] 16:52:41 start sheet 0 Export FOB:
-[2019-12-07] 16:52:41 Export Find Left Country:Tonga
-[2019-12-07] 16:52:41 start sheet 1 Import CIF:
-[2019-12-07] 16:52:41 Import Find Left Country:Tonga
-[2019-12-07] 16:52:41 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124834.692.xlsx
-[2019-12-07] 16:52:41 start sheet 0 Export FOB:
-[2019-12-07] 16:52:41 Export Find Left Country:Trinidad and Tobago
-[2019-12-07] 16:52:41 start sheet 1 Import CIF:
-[2019-12-07] 16:52:41 Import Find Left Country:Trinidad and Tobago
-[2019-12-07] 16:52:41 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124847.565.xlsx
-[2019-12-07] 16:52:41 start sheet 0 Export FOB:
-[2019-12-07] 16:52:41 Export Find Left Country:Tunisia
-[2019-12-07] 16:52:41 start sheet 1 Import CIF:
-[2019-12-07] 16:52:42 Import Find Left Country:Tunisia
-[2019-12-07] 16:52:42 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124858.207.xlsx
-[2019-12-07] 16:52:42 start sheet 0 Export FOB:
-[2019-12-07] 16:52:42 Export Find Left Country:Turkey
-[2019-12-07] 16:52:42 start sheet 1 Import CIF:
-[2019-12-07] 16:52:42 Import Find Left Country:Turkey
-[2019-12-07] 16:52:42 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124908.072.xlsx
-[2019-12-07] 16:52:42 start sheet 0 Export FOB:
-[2019-12-07] 16:52:42 Export Find Left Country:Turkmenistan
-[2019-12-07] 16:52:42 start sheet 1 Import CIF:
-[2019-12-07] 16:52:42 Import Find Left Country:Turkmenistan
-[2019-12-07] 16:52:42 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124915.952.xlsx
-[2019-12-07] 16:52:42 start sheet 0 Export FOB:
-[2019-12-07] 16:52:42 Export Find Left Country:Tuvalu
-[2019-12-07] 16:52:42 start sheet 1 Import CIF:
-[2019-12-07] 16:52:42 Import Find Left Country:Tuvalu
-[2019-12-07] 16:52:42 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124934.596.xlsx
-[2019-12-07] 16:52:42 start sheet 0 Export FOB:
-[2019-12-07] 16:52:42 Export Find Left Country:Uganda
-[2019-12-07] 16:52:42 start sheet 1 Import CIF:
-[2019-12-07] 16:52:42 Import Find Left Country:Uganda
-[2019-12-07] 16:52:42 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124944.219.xlsx
-[2019-12-07] 16:52:42 start sheet 0 Export FOB:
-[2019-12-07] 16:52:42 Export Find Left Country:Ukraine
-[2019-12-07] 16:52:42 start sheet 1 Import CIF:
-[2019-12-07] 16:52:42 Import Find Left Country:Ukraine
-[2019-12-07] 16:52:42 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124956.383.xlsx
-[2019-12-07] 16:52:42 start sheet 0 Export FOB:
-[2019-12-07] 16:52:42 Export Find Left Country:United Arab Emirates
-[2019-12-07] 16:52:42 start sheet 1 Import CIF:
-[2019-12-07] 16:52:42 Import Find Left Country:United Arab Emirates
-[2019-12-07] 16:52:42 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125006.756.xlsx
-[2019-12-07] 16:52:42 start sheet 0 Export FOB:
-[2019-12-07] 16:52:42 Export Find Left Country:United Kingdom
-[2019-12-07] 16:52:42 start sheet 1 Import CIF:
-[2019-12-07] 16:52:42 Import Find Left Country:United Kingdom
-[2019-12-07] 16:52:42 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125023.278.xlsx
-[2019-12-07] 16:52:42 start sheet 0 Export FOB:
-[2019-12-07] 16:52:42 Export Find Left Country:United States
-[2019-12-07] 16:52:42 start sheet 1 Import CIF:
-[2019-12-07] 16:52:42 Import Find Left Country:United States
-[2019-12-07] 16:52:42 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125128.125.xlsx
-[2019-12-07] 16:52:42 start sheet 0 Export FOB:
-[2019-12-07] 16:52:42 Export Find Left Country:Uruguay
-[2019-12-07] 16:52:42 start sheet 1 Import CIF:
-[2019-12-07] 16:52:42 Import Find Left Country:Uruguay
-[2019-12-07] 16:52:42 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125144.840.xlsx
-[2019-12-07] 16:52:42 start sheet 0 Export FOB:
-[2019-12-07] 16:52:42 Export Find Left Country:Uzbekistan
-[2019-12-07] 16:52:42 start sheet 1 Import CIF:
-[2019-12-07] 16:52:42 Import Find Left Country:Uzbekistan
-[2019-12-07] 16:52:42 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125157.498.xlsx
-[2019-12-07] 16:52:42 start sheet 0 Export FOB:
-[2019-12-07] 16:52:42 Export Find Left Country:Vanuatu
-[2019-12-07] 16:52:42 start sheet 1 Import CIF:
-[2019-12-07] 16:52:42 Import Find Left Country:Vanuatu
-[2019-12-07] 16:52:42 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125226.066.xlsx
-[2019-12-07] 16:52:42 start sheet 0 Export FOB:
-[2019-12-07] 16:52:42 Export Find Left Country:Vatican
-[2019-12-07] 16:52:42 start sheet 1 Import CIF:
-[2019-12-07] 16:52:42 Import Find Left Country:Vatican
-[2019-12-07] 16:52:42 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125241.948.xlsx
-[2019-12-07] 16:52:42 start sheet 0 Export FOB:
-[2019-12-07] 16:52:42 Export Find Left Country:Venezuela, Rep. Bol.
-[2019-12-07] 16:52:42 start sheet 1 Import CIF:
-[2019-12-07] 16:52:42 Import Find Left Country:Venezuela, Rep. Bol.
-[2019-12-07] 16:52:42 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125253.303.xlsx
-[2019-12-07] 16:52:42 start sheet 0 Export FOB:
-[2019-12-07] 16:52:42 Export Find Left Country:Vietnam
-[2019-12-07] 16:52:42 start sheet 1 Import CIF:
-[2019-12-07] 16:52:42 Import Find Left Country:Vietnam
-[2019-12-07] 16:52:42 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125307.591.xlsx
-[2019-12-07] 16:52:42 start sheet 0 Export FOB:
-[2019-12-07] 16:52:42 Export Find Left Country:West Bank and Gaza
-[2019-12-07] 16:52:42 start sheet 1 Import CIF:
-[2019-12-07] 16:52:42 Import Find Left Country:West Bank and Gaza
-[2019-12-07] 16:52:42 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125335.024.xlsx
-[2019-12-07] 16:52:42 start sheet 0 Export FOB:
-[2019-12-07] 16:52:42 Export Find Left Country:Yemen, Republic of
-[2019-12-07] 16:52:42 start sheet 1 Import CIF:
-[2019-12-07] 16:52:42 Import Find Left Country:Yemen, Republic of
-[2019-12-07] 16:52:42 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125403.179.xlsx
-[2019-12-07] 16:52:42 start sheet 0 Export FOB:
-[2019-12-07] 16:52:42 Export Find Left Country:Zambia
-[2019-12-07] 16:52:42 start sheet 1 Import CIF:
-[2019-12-07] 16:52:42 Import Find Left Country:Zambia
-[2019-12-07] 16:52:42 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125418.880.xlsx
-[2019-12-07] 16:52:42 start sheet 0 Export FOB:
-[2019-12-07] 16:52:42 Export Find Left Country:Zimbabwe
-[2019-12-07] 16:52:42 start sheet 1 Import CIF:
-[2019-12-07] 16:52:42 Import Find Left Country:Zimbabwe
-[2019-12-07] 16:52:42 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125439.898.xlsx
-[2019-12-07] 16:52:42 start sheet 0 Export FOB:
-[2019-12-07] 16:52:43 Export Find Left Country:World
-[2019-12-07] 16:52:43 start sheet 1 Import CIF:
-[2019-12-07] 16:52:43 Import Find Left Country:World
-[2019-12-07] 16:52:43 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125454.266.xlsx
-[2019-12-07] 16:52:43 start sheet 0 Export FOB:
-[2019-12-07] 16:52:43 Export Find Left Country:Advanced Economies
-[2019-12-07] 16:52:43 start sheet 1 Import CIF:
-[2019-12-07] 16:52:43 Import Find Left Country:Advanced Economies
-[2019-12-07] 16:52:43 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125503.662.xlsx
-[2019-12-07] 16:52:43 start sheet 0 Export FOB:
-[2019-12-07] 16:52:43 Export Find Left Country:Emerging & Dev. Countries
-[2019-12-07] 16:52:43 start sheet 1 Import CIF:
-[2019-12-07] 16:52:43 Import Find Left Country:Emerging & Dev. Countries
-[2019-12-07] 16:52:43 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125516.575.xlsx
-[2019-12-07] 16:52:43 start sheet 0 Export FOB:
-[2019-12-07] 16:52:43 Export Find Left Country:Emerging & Dev. Asia
-[2019-12-07] 16:52:43 start sheet 1 Import CIF:
-[2019-12-07] 16:52:43 Import Find Left Country:Emerging & Dev. Asia
-[2019-12-07] 16:52:43 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125530.322.xlsx
-[2019-12-07] 16:52:43 start sheet 0 Export FOB:
-[2019-12-07] 16:52:43 Export Find Left Country:Africa
-[2019-12-07] 16:52:43 start sheet 1 Import CIF:
-[2019-12-07] 16:52:43 Import Find Left Country:Africa
-[2019-12-07] 16:52:43 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125545.552.xlsx
-[2019-12-07] 16:52:43 start sheet 0 Export FOB:
-[2019-12-07] 16:52:43 Export Find Left Country:Sub-Saharan Africa
-[2019-12-07] 16:52:43 start sheet 1 Import CIF:
-[2019-12-07] 16:52:43 Import Find Left Country:Sub-Saharan Africa
-[2019-12-07] 16:52:43 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125558.624.xlsx
-[2019-12-07] 16:52:43 start sheet 0 Export FOB:
-[2019-12-07] 16:52:43 Export Find Left Country:Middle East
-[2019-12-07] 16:52:43 start sheet 1 Import CIF:
-[2019-12-07] 16:52:43 Import Find Left Country:Middle East
-[2019-12-07] 16:52:43 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125612.635.xlsx
-[2019-12-07] 16:52:43 start sheet 0 Export FOB:
-[2019-12-07] 16:52:43 Export Find Left Country:Middle East, N. Africa, Pakistan
-[2019-12-07] 16:52:43 start sheet 1 Import CIF:
-[2019-12-07] 16:52:43 Import Find Left Country:Middle East, N. Africa, Pakistan
-[2019-12-07] 16:52:43 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125626.035.xlsx
-[2019-12-07] 16:52:43 start sheet 0 Export FOB:
-[2019-12-07] 16:52:43 Export Find Left Country:Euro Area
-[2019-12-07] 16:52:43 start sheet 1 Import CIF:
-[2019-12-07] 16:52:43 Import Find Left Country:Euro Area
-[2019-12-07] 16:52:43 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125643.354.xlsx
-[2019-12-07] 16:52:43 start sheet 0 Export FOB:
-[2019-12-07] 16:52:43 Export Find Left Country:European Union
-[2019-12-07] 16:52:43 start sheet 1 Import CIF:
-[2019-12-07] 16:52:43 Import Find Left Country:European Union
-[2019-12-07] 16:52:43 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125704.189.xlsx
-[2019-12-07] 16:52:43 start sheet 0 Export FOB:
-[2019-12-07] 16:52:43 Export Find Left Country:Europe
-[2019-12-07] 16:52:43 start sheet 1 Import CIF:
-[2019-12-07] 16:52:43 Import Find Left Country:Europe
-[2019-12-07] 16:52:43 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125731.132.xlsx
-[2019-12-07] 16:52:43 start sheet 0 Export FOB:
-[2019-12-07] 16:52:43 Export Find Left Country:Emerging & Dev. Europe
-[2019-12-07] 16:52:43 start sheet 1 Import CIF:
-[2019-12-07] 16:52:43 Import Find Left Country:Emerging & Dev. Europe
-[2019-12-07] 16:52:43 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125743.132.xlsx
-[2019-12-07] 16:52:43 start sheet 0 Export FOB:
-[2019-12-07] 16:52:44 Export Find Left Country:CIS
-[2019-12-07] 16:52:44 start sheet 1 Import CIF:
-[2019-12-07] 16:52:44 Import Find Left Country:CIS
-[2019-12-07] 16:52:44 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125809.390.xlsx
-[2019-12-07] 16:52:44 start sheet 0 Export FOB:
-[2019-12-07] 16:52:44 Export Find Left Country:Western Hemisphere
-[2019-12-07] 16:52:44 start sheet 1 Import CIF:
-[2019-12-07] 16:52:44 Import Find Left Country:Western Hemisphere
-[2019-12-07] 16:52:44 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125824.108.xlsx
-[2019-12-07] 16:52:44 start sheet 0 Export FOB:
-[2019-12-07] 16:52:44 Export Find Left Country:Other Countries n.i.e
-[2019-12-07] 16:52:44 start sheet 1 Import CIF:
-[2019-12-07] 16:52:44 Import Find Left Country:Other Countries n.i.e
-[2019-12-07] 16:52:44 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125837.696.xlsx
-[2019-12-07] 16:52:44 start sheet 0 Export FOB:
-[2019-12-07] 16:52:44 Export Find Left Country:Export earnings: fuel
-[2019-12-07] 16:52:44 start sheet 1 Import CIF:
-[2019-12-07] 16:52:44 Import Find Left Country:Export earnings: fuel
-[2019-12-07] 16:52:44 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125852.699.xlsx
-[2019-12-07] 16:52:44 start sheet 0 Export FOB:
-[2019-12-07] 16:52:44 Export Find Left Country:Export earnings: nonfuel
-[2019-12-07] 16:52:44 start sheet 1 Import CIF:
-[2019-12-07] 16:52:44 Import Find Left Country:Export earnings: nonfuel
-[2019-12-07] 16:52:44 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co.xlsx
-[2019-12-07] 16:52:44 start sheet 0 Export FOB:
-[2019-12-07] 16:52:44 Export Find Left Country:Afghanistan, I.R. of
-[2019-12-07] 16:52:44 start sheet 1 Import CIF:
-[2019-12-07] 16:52:44 Import Find Left Country:Afghanistan, I.R. of
+[2019-12-07] 17:19:01 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (1).xlsx
+[2019-12-07] 17:19:01 start sheet 0 Export FOB:
+[2019-12-07] 17:19:01 Export Find Left Country:Albania
+[2019-12-07] 17:19:01 start sheet 1 Import CIF:
+[2019-12-07] 17:19:01 Import Find Left Country:Albania
+[2019-12-07] 17:19:01 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (10).xlsx
+[2019-12-07] 17:19:01 start sheet 0 Export FOB:
+[2019-12-07] 17:19:01 Export Find Left Country:Aruba
+[2019-12-07] 17:19:01 start sheet 1 Import CIF:
+[2019-12-07] 17:19:01 Import Find Left Country:Aruba
+[2019-12-07] 17:19:01 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (100).xlsx
+[2019-12-07] 17:19:01 start sheet 0 Export FOB:
+[2019-12-07] 17:19:01 Export Find Left Country:Kazakhstan
+[2019-12-07] 17:19:01 start sheet 1 Import CIF:
+[2019-12-07] 17:19:01 Import Find Left Country:Kazakhstan
+[2019-12-07] 17:19:01 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (11).xlsx
+[2019-12-07] 17:19:01 start sheet 0 Export FOB:
+[2019-12-07] 17:19:01 Export Find Left Country:Australia
+[2019-12-07] 17:19:01 start sheet 1 Import CIF:
+[2019-12-07] 17:19:01 Import Find Left Country:Australia
+[2019-12-07] 17:19:01 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (12).xlsx
+[2019-12-07] 17:19:01 start sheet 0 Export FOB:
+[2019-12-07] 17:19:01 Export Find Left Country:Austria
+[2019-12-07] 17:19:01 start sheet 1 Import CIF:
+[2019-12-07] 17:19:01 Import Find Left Country:Austria
+[2019-12-07] 17:19:01 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (13).xlsx
+[2019-12-07] 17:19:01 start sheet 0 Export FOB:
+[2019-12-07] 17:19:01 Export Find Left Country:Azerbaijan, Rep. of
+[2019-12-07] 17:19:01 start sheet 1 Import CIF:
+[2019-12-07] 17:19:01 Import Find Left Country:Azerbaijan, Rep. of
+[2019-12-07] 17:19:01 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (14).xlsx
+[2019-12-07] 17:19:01 start sheet 0 Export FOB:
+[2019-12-07] 17:19:01 Export Find Left Country:Bahamas, The
+[2019-12-07] 17:19:01 start sheet 1 Import CIF:
+[2019-12-07] 17:19:01 Import Find Left Country:Bahamas, The
+[2019-12-07] 17:19:01 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (15).xlsx
+[2019-12-07] 17:19:01 start sheet 0 Export FOB:
+[2019-12-07] 17:19:01 Export Find Left Country:Bahrain, Kingdom of
+[2019-12-07] 17:19:01 start sheet 1 Import CIF:
+[2019-12-07] 17:19:01 Import Find Left Country:Bahrain, Kingdom of
+[2019-12-07] 17:19:01 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (16).xlsx
+[2019-12-07] 17:19:01 start sheet 0 Export FOB:
+[2019-12-07] 17:19:01 Export Find Left Country:Bangladesh
+[2019-12-07] 17:19:01 start sheet 1 Import CIF:
+[2019-12-07] 17:19:01 Import Find Left Country:Bangladesh
+[2019-12-07] 17:19:01 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (17).xlsx
+[2019-12-07] 17:19:01 start sheet 0 Export FOB:
+[2019-12-07] 17:19:01 Export Find Left Country:Barbados
+[2019-12-07] 17:19:01 start sheet 1 Import CIF:
+[2019-12-07] 17:19:01 Import Find Left Country:Barbados
+[2019-12-07] 17:19:01 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (18).xlsx
+[2019-12-07] 17:19:01 start sheet 0 Export FOB:
+[2019-12-07] 17:19:01 Export Find Left Country:Belarus
+[2019-12-07] 17:19:01 start sheet 1 Import CIF:
+[2019-12-07] 17:19:01 Import Find Left Country:Belarus
+[2019-12-07] 17:19:01 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (19).xlsx
+[2019-12-07] 17:19:01 start sheet 0 Export FOB:
+[2019-12-07] 17:19:01 Export Find Left Country:Belgium
+[2019-12-07] 17:19:01 start sheet 1 Import CIF:
+[2019-12-07] 17:19:01 Import Find Left Country:Belgium
+[2019-12-07] 17:19:01 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (2).xlsx
+[2019-12-07] 17:19:01 start sheet 0 Export FOB:
+[2019-12-07] 17:19:01 Export Find Left Country:Algeria
+[2019-12-07] 17:19:01 start sheet 1 Import CIF:
+[2019-12-07] 17:19:01 Import Find Left Country:Algeria
+[2019-12-07] 17:19:01 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (20).xlsx
+[2019-12-07] 17:19:01 start sheet 0 Export FOB:
+[2019-12-07] 17:19:02 Export Find Left Country:Belize
+[2019-12-07] 17:19:02 start sheet 1 Import CIF:
+[2019-12-07] 17:19:02 Import Find Left Country:Belize
+[2019-12-07] 17:19:02 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (21).xlsx
+[2019-12-07] 17:19:02 start sheet 0 Export FOB:
+[2019-12-07] 17:19:02 Export Find Left Country:Benin
+[2019-12-07] 17:19:02 start sheet 1 Import CIF:
+[2019-12-07] 17:19:02 Import Find Left Country:Benin
+[2019-12-07] 17:19:02 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (22).xlsx
+[2019-12-07] 17:19:02 start sheet 0 Export FOB:
+[2019-12-07] 17:19:02 Export Find Left Country:Bermuda
+[2019-12-07] 17:19:02 start sheet 1 Import CIF:
+[2019-12-07] 17:19:02 Import Find Left Country:Bermuda
+[2019-12-07] 17:19:02 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (23).xlsx
+[2019-12-07] 17:19:02 start sheet 0 Export FOB:
+[2019-12-07] 17:19:02 Export Find Left Country:Bhutan
+[2019-12-07] 17:19:02 start sheet 1 Import CIF:
+[2019-12-07] 17:19:02 Import Find Left Country:Bhutan
+[2019-12-07] 17:19:02 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (24).xlsx
+[2019-12-07] 17:19:02 start sheet 0 Export FOB:
+[2019-12-07] 17:19:02 Export Find Left Country:Bolivia
+[2019-12-07] 17:19:02 start sheet 1 Import CIF:
+[2019-12-07] 17:19:02 Import Find Left Country:Bolivia
+[2019-12-07] 17:19:02 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (25).xlsx
+[2019-12-07] 17:19:02 start sheet 0 Export FOB:
+[2019-12-07] 17:19:02 Export Find Left Country:Bosnia and Herzegovina
+[2019-12-07] 17:19:02 start sheet 1 Import CIF:
+[2019-12-07] 17:19:02 Import Find Left Country:Bosnia and Herzegovina
+[2019-12-07] 17:19:02 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (26).xlsx
+[2019-12-07] 17:19:02 start sheet 0 Export FOB:
+[2019-12-07] 17:19:02 Export Find Left Country:Botswana
+[2019-12-07] 17:19:02 start sheet 1 Import CIF:
+[2019-12-07] 17:19:02 Import Find Left Country:Botswana
+[2019-12-07] 17:19:02 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (27).xlsx
+[2019-12-07] 17:19:02 start sheet 0 Export FOB:
+[2019-12-07] 17:19:02 Export Find Left Country:Brazil
+[2019-12-07] 17:19:02 start sheet 1 Import CIF:
+[2019-12-07] 17:19:02 Import Find Left Country:Brazil
+[2019-12-07] 17:19:02 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (28).xlsx
+[2019-12-07] 17:19:02 start sheet 0 Export FOB:
+[2019-12-07] 17:19:02 Export Find Left Country:Brunei Darussalam
+[2019-12-07] 17:19:02 start sheet 1 Import CIF:
+[2019-12-07] 17:19:02 Import Find Left Country:Brunei Darussalam
+[2019-12-07] 17:19:02 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (29).xlsx
+[2019-12-07] 17:19:02 start sheet 0 Export FOB:
+[2019-12-07] 17:19:02 Export Find Left Country:Brunei Darussalam
+[2019-12-07] 17:19:02 start sheet 1 Import CIF:
+[2019-12-07] 17:19:02 Import Find Left Country:Brunei Darussalam
+[2019-12-07] 17:19:02 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (3).xlsx
+[2019-12-07] 17:19:02 start sheet 0 Export FOB:
+[2019-12-07] 17:19:02 Export Find Left Country:American Samoa
+[2019-12-07] 17:19:02 start sheet 1 Import CIF:
+[2019-12-07] 17:19:02 Import Find Left Country:American Samoa
+[2019-12-07] 17:19:02 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (30).xlsx
+[2019-12-07] 17:19:02 start sheet 0 Export FOB:
+[2019-12-07] 17:19:02 Export Find Left Country:Bulgaria
+[2019-12-07] 17:19:02 start sheet 1 Import CIF:
+[2019-12-07] 17:19:02 Import Find Left Country:Bulgaria
+[2019-12-07] 17:19:02 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (31).xlsx
+[2019-12-07] 17:19:02 start sheet 0 Export FOB:
+[2019-12-07] 17:19:02 Export Find Left Country:Burkina Faso
+[2019-12-07] 17:19:02 start sheet 1 Import CIF:
+[2019-12-07] 17:19:02 Import Find Left Country:Burkina Faso
+[2019-12-07] 17:19:02 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (32).xlsx
+[2019-12-07] 17:19:02 start sheet 0 Export FOB:
+[2019-12-07] 17:19:02 Export Find Left Country:Burundi
+[2019-12-07] 17:19:02 start sheet 1 Import CIF:
+[2019-12-07] 17:19:02 Import Find Left Country:Burundi
+[2019-12-07] 17:19:02 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (33).xlsx
+[2019-12-07] 17:19:02 start sheet 0 Export FOB:
+[2019-12-07] 17:19:02 Export Find Left Country:Cabo Verde
+[2019-12-07] 17:19:02 start sheet 1 Import CIF:
+[2019-12-07] 17:19:02 Import Find Left Country:Cabo Verde
+[2019-12-07] 17:19:02 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (34).xlsx
+[2019-12-07] 17:19:02 start sheet 0 Export FOB:
+[2019-12-07] 17:19:02 Export Find Left Country:Cambodia
+[2019-12-07] 17:19:02 start sheet 1 Import CIF:
+[2019-12-07] 17:19:02 Import Find Left Country:Cambodia
+[2019-12-07] 17:19:02 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (35).xlsx
+[2019-12-07] 17:19:02 start sheet 0 Export FOB:
+[2019-12-07] 17:19:02 Export Find Left Country:Cameroon
+[2019-12-07] 17:19:02 start sheet 1 Import CIF:
+[2019-12-07] 17:19:02 Import Find Left Country:Cameroon
+[2019-12-07] 17:19:02 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (36).xlsx
+[2019-12-07] 17:19:02 start sheet 0 Export FOB:
+[2019-12-07] 17:19:02 Export Find Left Country:Canada
+[2019-12-07] 17:19:02 start sheet 1 Import CIF:
+[2019-12-07] 17:19:02 Import Find Left Country:Canada
+[2019-12-07] 17:19:02 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (37).xlsx
+[2019-12-07] 17:19:02 start sheet 0 Export FOB:
+[2019-12-07] 17:19:02 Export Find Left Country:Central African Rep.
+[2019-12-07] 17:19:02 start sheet 1 Import CIF:
+[2019-12-07] 17:19:02 Import Find Left Country:Central African Rep.
+[2019-12-07] 17:19:02 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (38).xlsx
+[2019-12-07] 17:19:02 start sheet 0 Export FOB:
+[2019-12-07] 17:19:03 Export Find Left Country:Chad
+[2019-12-07] 17:19:03 start sheet 1 Import CIF:
+[2019-12-07] 17:19:03 Import Find Left Country:Chad
+[2019-12-07] 17:19:03 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (39).xlsx
+[2019-12-07] 17:19:03 start sheet 0 Export FOB:
+[2019-12-07] 17:19:03 Export Find Left Country:Chile
+[2019-12-07] 17:19:03 start sheet 1 Import CIF:
+[2019-12-07] 17:19:03 Import Find Left Country:Chile
+[2019-12-07] 17:19:03 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (4).xlsx
+[2019-12-07] 17:19:03 start sheet 0 Export FOB:
+[2019-12-07] 17:19:03 Export Find Left Country:Angola
+[2019-12-07] 17:19:03 start sheet 1 Import CIF:
+[2019-12-07] 17:19:03 Import Find Left Country:Angola
+[2019-12-07] 17:19:03 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (40).xlsx
+[2019-12-07] 17:19:03 start sheet 0 Export FOB:
+[2019-12-07] 17:19:03 Export Find Left Country:China,P.R.: Mainland
+[2019-12-07] 17:19:03 start sheet 1 Import CIF:
+[2019-12-07] 17:19:03 Import Find Left Country:China,P.R.: Mainland
+[2019-12-07] 17:19:03 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (41).xlsx
+[2019-12-07] 17:19:03 start sheet 0 Export FOB:
+[2019-12-07] 17:19:03 Export Find Left Country:China,P.R.: Hong Kong
+[2019-12-07] 17:19:03 start sheet 1 Import CIF:
+[2019-12-07] 17:19:03 Import Find Left Country:China,P.R.: Hong Kong
+[2019-12-07] 17:19:03 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (42).xlsx
+[2019-12-07] 17:19:03 start sheet 0 Export FOB:
+[2019-12-07] 17:19:03 Export Find Left Country:China,P.R.: Macao
+[2019-12-07] 17:19:03 start sheet 1 Import CIF:
+[2019-12-07] 17:19:03 Import Find Left Country:China,P.R.: Macao
+[2019-12-07] 17:19:03 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (43).xlsx
+[2019-12-07] 17:19:03 start sheet 0 Export FOB:
+[2019-12-07] 17:19:03 Export Find Left Country:Colombia
+[2019-12-07] 17:19:03 start sheet 1 Import CIF:
+[2019-12-07] 17:19:03 Import Find Left Country:Colombia
+[2019-12-07] 17:19:03 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (44).xlsx
+[2019-12-07] 17:19:03 start sheet 0 Export FOB:
+[2019-12-07] 17:19:03 Export Find Left Country:Comoros
+[2019-12-07] 17:19:03 start sheet 1 Import CIF:
+[2019-12-07] 17:19:03 Import Find Left Country:Comoros
+[2019-12-07] 17:19:03 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (45).xlsx
+[2019-12-07] 17:19:03 start sheet 0 Export FOB:
+[2019-12-07] 17:19:03 Export Find Left Country:Congo, Dem. Rep. of
+[2019-12-07] 17:19:03 start sheet 1 Import CIF:
+[2019-12-07] 17:19:03 Import Find Left Country:Congo, Dem. Rep. of
+[2019-12-07] 17:19:03 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (46).xlsx
+[2019-12-07] 17:19:03 start sheet 0 Export FOB:
+[2019-12-07] 17:19:03 Export Find Left Country:Congo, Republic of
+[2019-12-07] 17:19:03 start sheet 1 Import CIF:
+[2019-12-07] 17:19:03 Import Find Left Country:Congo, Republic of
+[2019-12-07] 17:19:03 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (47).xlsx
+[2019-12-07] 17:19:03 start sheet 0 Export FOB:
+[2019-12-07] 17:19:03 Export Find Left Country:Costa Rica
+[2019-12-07] 17:19:03 start sheet 1 Import CIF:
+[2019-12-07] 17:19:03 Import Find Left Country:Costa Rica
+[2019-12-07] 17:19:03 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (48).xlsx
+[2019-12-07] 17:19:03 start sheet 0 Export FOB:
+[2019-12-07] 17:19:03 Export Find Left Country:Côte d'Ivoire
+[2019-12-07] 17:19:03 start sheet 1 Import CIF:
+[2019-12-07] 17:19:03 Import Find Left Country:Côte d'Ivoire
+[2019-12-07] 17:19:03 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (49).xlsx
+[2019-12-07] 17:19:03 start sheet 0 Export FOB:
+[2019-12-07] 17:19:03 Export Find Left Country:Croatia
+[2019-12-07] 17:19:03 start sheet 1 Import CIF:
+[2019-12-07] 17:19:03 Import Find Left Country:Croatia
+[2019-12-07] 17:19:03 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (5).xlsx
+[2019-12-07] 17:19:03 start sheet 0 Export FOB:
+[2019-12-07] 17:19:03 Export Find Left Country:Anguilla
+[2019-12-07] 17:19:03 start sheet 1 Import CIF:
+[2019-12-07] 17:19:03 Import Find Left Country:Anguilla
+[2019-12-07] 17:19:03 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (50).xlsx
+[2019-12-07] 17:19:03 start sheet 0 Export FOB:
+[2019-12-07] 17:19:03 Export Find Left Country:Cuba
+[2019-12-07] 17:19:03 start sheet 1 Import CIF:
+[2019-12-07] 17:19:03 Import Find Left Country:Cuba
+[2019-12-07] 17:19:03 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (51).xlsx
+[2019-12-07] 17:19:03 start sheet 0 Export FOB:
+[2019-12-07] 17:19:03 Export Find Left Country:Curacao
+[2019-12-07] 17:19:03 start sheet 1 Import CIF:
+[2019-12-07] 17:19:03 Import Find Left Country:Curacao
+[2019-12-07] 17:19:03 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (52).xlsx
+[2019-12-07] 17:19:03 start sheet 0 Export FOB:
+[2019-12-07] 17:19:03 Export Find Left Country:Cyprus
+[2019-12-07] 17:19:03 start sheet 1 Import CIF:
+[2019-12-07] 17:19:04 Import Find Left Country:Cyprus
+[2019-12-07] 17:19:04 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (53).xlsx
+[2019-12-07] 17:19:04 start sheet 0 Export FOB:
+[2019-12-07] 17:19:04 Export Find Left Country:Czech Republic
+[2019-12-07] 17:19:04 start sheet 1 Import CIF:
+[2019-12-07] 17:19:04 Import Find Left Country:Czech Republic
+[2019-12-07] 17:19:04 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (54).xlsx
+[2019-12-07] 17:19:04 start sheet 0 Export FOB:
+[2019-12-07] 17:19:04 Export Find Left Country:Denmark
+[2019-12-07] 17:19:04 start sheet 1 Import CIF:
+[2019-12-07] 17:19:04 Import Find Left Country:Denmark
+[2019-12-07] 17:19:04 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (55).xlsx
+[2019-12-07] 17:19:04 start sheet 0 Export FOB:
+[2019-12-07] 17:19:04 Export Find Left Country:Djibouti
+[2019-12-07] 17:19:04 start sheet 1 Import CIF:
+[2019-12-07] 17:19:04 Import Find Left Country:Djibouti
+[2019-12-07] 17:19:04 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (56).xlsx
+[2019-12-07] 17:19:04 start sheet 0 Export FOB:
+[2019-12-07] 17:19:04 Export Find Left Country:Dominica
+[2019-12-07] 17:19:04 start sheet 1 Import CIF:
+[2019-12-07] 17:19:04 Import Find Left Country:Dominica
+[2019-12-07] 17:19:04 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (57).xlsx
+[2019-12-07] 17:19:04 start sheet 0 Export FOB:
+[2019-12-07] 17:19:04 Export Find Left Country:Dominican Republic
+[2019-12-07] 17:19:04 start sheet 1 Import CIF:
+[2019-12-07] 17:19:04 Import Find Left Country:Dominican Republic
+[2019-12-07] 17:19:04 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (58).xlsx
+[2019-12-07] 17:19:04 start sheet 0 Export FOB:
+[2019-12-07] 17:19:04 Export Find Left Country:Ecuador
+[2019-12-07] 17:19:04 start sheet 1 Import CIF:
+[2019-12-07] 17:19:04 Import Find Left Country:Ecuador
+[2019-12-07] 17:19:04 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (59).xlsx
+[2019-12-07] 17:19:04 start sheet 0 Export FOB:
+[2019-12-07] 17:19:04 Export Find Left Country:Egypt
+[2019-12-07] 17:19:04 start sheet 1 Import CIF:
+[2019-12-07] 17:19:04 Import Find Left Country:Egypt
+[2019-12-07] 17:19:04 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (6).xlsx
+[2019-12-07] 17:19:04 start sheet 0 Export FOB:
+[2019-12-07] 17:19:04 Export Find Left Country:Antigua and Barbuda
+[2019-12-07] 17:19:04 start sheet 1 Import CIF:
+[2019-12-07] 17:19:04 Import Find Left Country:Antigua and Barbuda
+[2019-12-07] 17:19:04 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (60).xlsx
+[2019-12-07] 17:19:04 start sheet 0 Export FOB:
+[2019-12-07] 17:19:04 Export Find Left Country:El Salvador
+[2019-12-07] 17:19:04 start sheet 1 Import CIF:
+[2019-12-07] 17:19:04 Import Find Left Country:El Salvador
+[2019-12-07] 17:19:04 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (61).xlsx
+[2019-12-07] 17:19:04 start sheet 0 Export FOB:
+[2019-12-07] 17:19:04 Export Find Left Country:Equatorial Guinea
+[2019-12-07] 17:19:04 start sheet 1 Import CIF:
+[2019-12-07] 17:19:04 Import Find Left Country:Equatorial Guinea
+[2019-12-07] 17:19:04 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (62).xlsx
+[2019-12-07] 17:19:04 start sheet 0 Export FOB:
+[2019-12-07] 17:19:04 Export Find Left Country:Eritrea
+[2019-12-07] 17:19:04 start sheet 1 Import CIF:
+[2019-12-07] 17:19:04 Import Find Left Country:Eritrea
+[2019-12-07] 17:19:04 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (63).xlsx
+[2019-12-07] 17:19:04 start sheet 0 Export FOB:
+[2019-12-07] 17:19:04 Export Find Left Country:Estonia
+[2019-12-07] 17:19:04 start sheet 1 Import CIF:
+[2019-12-07] 17:19:04 Import Find Left Country:Estonia
+[2019-12-07] 17:19:04 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (64).xlsx
+[2019-12-07] 17:19:04 start sheet 0 Export FOB:
+[2019-12-07] 17:19:04 Export Find Left Country:Eswatini, Kingdom of
+[2019-12-07] 17:19:04 start sheet 1 Import CIF:
+[2019-12-07] 17:19:04 Import Find Left Country:Eswatini, Kingdom of
+[2019-12-07] 17:19:04 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (65).xlsx
+[2019-12-07] 17:19:04 start sheet 0 Export FOB:
+[2019-12-07] 17:19:04 Export Find Left Country:Ethiopia
+[2019-12-07] 17:19:04 start sheet 1 Import CIF:
+[2019-12-07] 17:19:04 Import Find Left Country:Ethiopia
+[2019-12-07] 17:19:04 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (66).xlsx
+[2019-12-07] 17:19:04 start sheet 0 Export FOB:
+[2019-12-07] 17:19:04 Export Find Left Country:Falkland Islands
+[2019-12-07] 17:19:04 start sheet 1 Import CIF:
+[2019-12-07] 17:19:04 Import Find Left Country:Falkland Islands
+[2019-12-07] 17:19:04 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (67).xlsx
+[2019-12-07] 17:19:04 start sheet 0 Export FOB:
+[2019-12-07] 17:19:04 Export Find Left Country:Faroe Islands
+[2019-12-07] 17:19:04 start sheet 1 Import CIF:
+[2019-12-07] 17:19:04 Import Find Left Country:Faroe Islands
+[2019-12-07] 17:19:04 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (68).xlsx
+[2019-12-07] 17:19:04 start sheet 0 Export FOB:
+[2019-12-07] 17:19:04 Export Find Left Country:Fiji
+[2019-12-07] 17:19:04 start sheet 1 Import CIF:
+[2019-12-07] 17:19:04 Import Find Left Country:Fiji
+[2019-12-07] 17:19:04 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (69).xlsx
+[2019-12-07] 17:19:04 start sheet 0 Export FOB:
+[2019-12-07] 17:19:04 Export Find Left Country:Finland
+[2019-12-07] 17:19:04 start sheet 1 Import CIF:
+[2019-12-07] 17:19:05 Import Find Left Country:Finland
+[2019-12-07] 17:19:05 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (7).xlsx
+[2019-12-07] 17:19:05 start sheet 0 Export FOB:
+[2019-12-07] 17:19:05 Export Find Left Country:Argentina
+[2019-12-07] 17:19:05 start sheet 1 Import CIF:
+[2019-12-07] 17:19:05 Import Find Left Country:Argentina
+[2019-12-07] 17:19:05 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (70).xlsx
+[2019-12-07] 17:19:05 start sheet 0 Export FOB:
+[2019-12-07] 17:19:05 Export Find Left Country:France
+[2019-12-07] 17:19:05 start sheet 1 Import CIF:
+[2019-12-07] 17:19:05 Import Find Left Country:France
+[2019-12-07] 17:19:05 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (71).xlsx
+[2019-12-07] 17:19:05 start sheet 0 Export FOB:
+[2019-12-07] 17:19:05 Export Find Left Country:French Polynesia
+[2019-12-07] 17:19:05 start sheet 1 Import CIF:
+[2019-12-07] 17:19:05 Import Find Left Country:French Polynesia
+[2019-12-07] 17:19:05 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (72).xlsx
+[2019-12-07] 17:19:05 start sheet 0 Export FOB:
+[2019-12-07] 17:19:05 Export Find Left Country:Gabon
+[2019-12-07] 17:19:05 start sheet 1 Import CIF:
+[2019-12-07] 17:19:05 Import Find Left Country:Gabon
+[2019-12-07] 17:19:05 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (73).xlsx
+[2019-12-07] 17:19:05 start sheet 0 Export FOB:
+[2019-12-07] 17:19:05 Export Find Left Country:Gambia, The
+[2019-12-07] 17:19:05 start sheet 1 Import CIF:
+[2019-12-07] 17:19:05 Import Find Left Country:Gambia, The
+[2019-12-07] 17:19:05 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (74).xlsx
+[2019-12-07] 17:19:05 start sheet 0 Export FOB:
+[2019-12-07] 17:19:05 Export Find Left Country:Georgia
+[2019-12-07] 17:19:05 start sheet 1 Import CIF:
+[2019-12-07] 17:19:05 Import Find Left Country:Georgia
+[2019-12-07] 17:19:05 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (75).xlsx
+[2019-12-07] 17:19:05 start sheet 0 Export FOB:
+[2019-12-07] 17:19:05 Export Find Left Country:Germany
+[2019-12-07] 17:19:05 start sheet 1 Import CIF:
+[2019-12-07] 17:19:05 Import Find Left Country:Germany
+[2019-12-07] 17:19:05 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (76).xlsx
+[2019-12-07] 17:19:05 start sheet 0 Export FOB:
+[2019-12-07] 17:19:05 Export Find Left Country:Ghana
+[2019-12-07] 17:19:05 start sheet 1 Import CIF:
+[2019-12-07] 17:19:05 Import Find Left Country:Ghana
+[2019-12-07] 17:19:05 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (77).xlsx
+[2019-12-07] 17:19:05 start sheet 0 Export FOB:
+[2019-12-07] 17:19:05 Export Find Left Country:Gibraltar
+[2019-12-07] 17:19:05 start sheet 1 Import CIF:
+[2019-12-07] 17:19:05 Import Find Left Country:Gibraltar
+[2019-12-07] 17:19:05 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (78).xlsx
+[2019-12-07] 17:19:05 start sheet 0 Export FOB:
+[2019-12-07] 17:19:05 Export Find Left Country:Greece
+[2019-12-07] 17:19:05 start sheet 1 Import CIF:
+[2019-12-07] 17:19:05 Import Find Left Country:Greece
+[2019-12-07] 17:19:05 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (79).xlsx
+[2019-12-07] 17:19:05 start sheet 0 Export FOB:
+[2019-12-07] 17:19:05 Export Find Left Country:Greenland
+[2019-12-07] 17:19:05 start sheet 1 Import CIF:
+[2019-12-07] 17:19:05 Import Find Left Country:Greenland
+[2019-12-07] 17:19:05 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (8).xlsx
+[2019-12-07] 17:19:05 start sheet 0 Export FOB:
+[2019-12-07] 17:19:05 Export Find Left Country:Argentina
+[2019-12-07] 17:19:05 start sheet 1 Import CIF:
+[2019-12-07] 17:19:05 Import Find Left Country:Argentina
+[2019-12-07] 17:19:05 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (80).xlsx
+[2019-12-07] 17:19:05 start sheet 0 Export FOB:
+[2019-12-07] 17:19:05 Export Find Left Country:Grenada
+[2019-12-07] 17:19:05 start sheet 1 Import CIF:
+[2019-12-07] 17:19:05 Import Find Left Country:Grenada
+[2019-12-07] 17:19:05 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (81).xlsx
+[2019-12-07] 17:19:05 start sheet 0 Export FOB:
+[2019-12-07] 17:19:05 Export Find Left Country:Guam
+[2019-12-07] 17:19:05 start sheet 1 Import CIF:
+[2019-12-07] 17:19:05 Import Find Left Country:Guam
+[2019-12-07] 17:19:05 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (82).xlsx
+[2019-12-07] 17:19:05 start sheet 0 Export FOB:
+[2019-12-07] 17:19:05 Export Find Left Country:Guatemala
+[2019-12-07] 17:19:05 start sheet 1 Import CIF:
+[2019-12-07] 17:19:05 Import Find Left Country:Guatemala
+[2019-12-07] 17:19:05 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (83).xlsx
+[2019-12-07] 17:19:05 start sheet 0 Export FOB:
+[2019-12-07] 17:19:05 Export Find Left Country:Guinea
+[2019-12-07] 17:19:05 start sheet 1 Import CIF:
+[2019-12-07] 17:19:05 Import Find Left Country:Guinea
+[2019-12-07] 17:19:05 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (84).xlsx
+[2019-12-07] 17:19:05 start sheet 0 Export FOB:
+[2019-12-07] 17:19:05 Export Find Left Country:Guinea-Bissau
+[2019-12-07] 17:19:05 start sheet 1 Import CIF:
+[2019-12-07] 17:19:06 Import Find Left Country:Guinea-Bissau
+[2019-12-07] 17:19:06 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (85).xlsx
+[2019-12-07] 17:19:06 start sheet 0 Export FOB:
+[2019-12-07] 17:19:06 Export Find Left Country:Guyana
+[2019-12-07] 17:19:06 start sheet 1 Import CIF:
+[2019-12-07] 17:19:06 Import Find Left Country:Guyana
+[2019-12-07] 17:19:06 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (86).xlsx
+[2019-12-07] 17:19:06 start sheet 0 Export FOB:
+[2019-12-07] 17:19:06 Export Find Left Country:Haiti
+[2019-12-07] 17:19:06 start sheet 1 Import CIF:
+[2019-12-07] 17:19:06 Import Find Left Country:Haiti
+[2019-12-07] 17:19:06 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (87).xlsx
+[2019-12-07] 17:19:06 start sheet 0 Export FOB:
+[2019-12-07] 17:19:06 Export Find Left Country:Honduras
+[2019-12-07] 17:19:06 start sheet 1 Import CIF:
+[2019-12-07] 17:19:06 Import Find Left Country:Honduras
+[2019-12-07] 17:19:06 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (88).xlsx
+[2019-12-07] 17:19:06 start sheet 0 Export FOB:
+[2019-12-07] 17:19:06 Export Find Left Country:Hungary
+[2019-12-07] 17:19:06 start sheet 1 Import CIF:
+[2019-12-07] 17:19:06 Import Find Left Country:Hungary
+[2019-12-07] 17:19:06 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (89).xlsx
+[2019-12-07] 17:19:06 start sheet 0 Export FOB:
+[2019-12-07] 17:19:06 Export Find Left Country:Iceland
+[2019-12-07] 17:19:06 start sheet 1 Import CIF:
+[2019-12-07] 17:19:06 Import Find Left Country:Iceland
+[2019-12-07] 17:19:06 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (9).xlsx
+[2019-12-07] 17:19:06 start sheet 0 Export FOB:
+[2019-12-07] 17:19:06 Export Find Left Country:Armenia
+[2019-12-07] 17:19:06 start sheet 1 Import CIF:
+[2019-12-07] 17:19:06 Import Find Left Country:Armenia
+[2019-12-07] 17:19:06 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (90).xlsx
+[2019-12-07] 17:19:06 start sheet 0 Export FOB:
+[2019-12-07] 17:19:06 Export Find Left Country:India
+[2019-12-07] 17:19:06 start sheet 1 Import CIF:
+[2019-12-07] 17:19:06 Import Find Left Country:India
+[2019-12-07] 17:19:06 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (91).xlsx
+[2019-12-07] 17:19:06 start sheet 0 Export FOB:
+[2019-12-07] 17:19:06 Export Find Left Country:Indonesia
+[2019-12-07] 17:19:06 start sheet 1 Import CIF:
+[2019-12-07] 17:19:06 Import Find Left Country:Indonesia
+[2019-12-07] 17:19:06 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (92).xlsx
+[2019-12-07] 17:19:06 start sheet 0 Export FOB:
+[2019-12-07] 17:19:06 Export Find Left Country:Iran, I.R. of
+[2019-12-07] 17:19:06 start sheet 1 Import CIF:
+[2019-12-07] 17:19:06 Import Find Left Country:Iran, I.R. of
+[2019-12-07] 17:19:06 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (93).xlsx
+[2019-12-07] 17:19:06 start sheet 0 Export FOB:
+[2019-12-07] 17:19:06 Export Find Left Country:Iraq
+[2019-12-07] 17:19:06 start sheet 1 Import CIF:
+[2019-12-07] 17:19:06 Import Find Left Country:Iraq
+[2019-12-07] 17:19:06 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (94).xlsx
+[2019-12-07] 17:19:06 start sheet 0 Export FOB:
+[2019-12-07] 17:19:06 Export Find Left Country:Ireland
+[2019-12-07] 17:19:06 start sheet 1 Import CIF:
+[2019-12-07] 17:19:06 Import Find Left Country:Ireland
+[2019-12-07] 17:19:06 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (95).xlsx
+[2019-12-07] 17:19:06 start sheet 0 Export FOB:
+[2019-12-07] 17:19:06 Export Find Left Country:Israel
+[2019-12-07] 17:19:06 start sheet 1 Import CIF:
+[2019-12-07] 17:19:06 Import Find Left Country:Israel
+[2019-12-07] 17:19:06 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (96).xlsx
+[2019-12-07] 17:19:06 start sheet 0 Export FOB:
+[2019-12-07] 17:19:06 Export Find Left Country:Italy
+[2019-12-07] 17:19:06 start sheet 1 Import CIF:
+[2019-12-07] 17:19:06 Import Find Left Country:Italy
+[2019-12-07] 17:19:06 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (97).xlsx
+[2019-12-07] 17:19:06 start sheet 0 Export FOB:
+[2019-12-07] 17:19:06 Export Find Left Country:Jamaica
+[2019-12-07] 17:19:06 start sheet 1 Import CIF:
+[2019-12-07] 17:19:06 Import Find Left Country:Jamaica
+[2019-12-07] 17:19:06 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (98).xlsx
+[2019-12-07] 17:19:06 start sheet 0 Export FOB:
+[2019-12-07] 17:19:06 Export Find Left Country:Japan
+[2019-12-07] 17:19:06 start sheet 1 Import CIF:
+[2019-12-07] 17:19:06 Import Find Left Country:Japan
+[2019-12-07] 17:19:06 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co (99).xlsx
+[2019-12-07] 17:19:06 start sheet 0 Export FOB:
+[2019-12-07] 17:19:06 Export Find Left Country:Jordan
+[2019-12-07] 17:19:06 start sheet 1 Import CIF:
+[2019-12-07] 17:19:07 Import Find Left Country:Jordan
+[2019-12-07] 17:19:07 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T121843.921.xlsx
+[2019-12-07] 17:19:07 start sheet 0 Export FOB:
+[2019-12-07] 17:19:07 Export Find Left Country:Kenya
+[2019-12-07] 17:19:07 start sheet 1 Import CIF:
+[2019-12-07] 17:19:07 Import Find Left Country:Kenya
+[2019-12-07] 17:19:07 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T121851.501.xlsx
+[2019-12-07] 17:19:07 start sheet 0 Export FOB:
+[2019-12-07] 17:19:07 Export Find Left Country:Kiribati
+[2019-12-07] 17:19:07 start sheet 1 Import CIF:
+[2019-12-07] 17:19:07 Import Find Left Country:Kiribati
+[2019-12-07] 17:19:07 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T121858.174.xlsx
+[2019-12-07] 17:19:07 start sheet 0 Export FOB:
+[2019-12-07] 17:19:07 Export Find Left Country:Korea, Republic of
+[2019-12-07] 17:19:07 start sheet 1 Import CIF:
+[2019-12-07] 17:19:07 Import Find Left Country:Korea, Republic of
+[2019-12-07] 17:19:07 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T121906.484.xlsx
+[2019-12-07] 17:19:07 start sheet 0 Export FOB:
+[2019-12-07] 17:19:07 Export Find Left Country:Kosovo, Republic of
+[2019-12-07] 17:19:07 start sheet 1 Import CIF:
+[2019-12-07] 17:19:07 Import Find Left Country:Kosovo, Republic of
+[2019-12-07] 17:19:07 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T121913.850.xlsx
+[2019-12-07] 17:19:07 start sheet 0 Export FOB:
+[2019-12-07] 17:19:07 Export Find Left Country:Kuwait
+[2019-12-07] 17:19:07 start sheet 1 Import CIF:
+[2019-12-07] 17:19:07 Import Find Left Country:Kuwait
+[2019-12-07] 17:19:07 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T121920.440.xlsx
+[2019-12-07] 17:19:07 start sheet 0 Export FOB:
+[2019-12-07] 17:19:07 Export Find Left Country:Kyrgyz Republic
+[2019-12-07] 17:19:07 start sheet 1 Import CIF:
+[2019-12-07] 17:19:07 Import Find Left Country:Kyrgyz Republic
+[2019-12-07] 17:19:07 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T121927.199.xlsx
+[2019-12-07] 17:19:07 start sheet 0 Export FOB:
+[2019-12-07] 17:19:07 Export Find Left Country:Lao People's Dem.Rep
+[2019-12-07] 17:19:07 start sheet 1 Import CIF:
+[2019-12-07] 17:19:07 Import Find Left Country:Lao People's Dem.Rep
+[2019-12-07] 17:19:07 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T121934.946.xlsx
+[2019-12-07] 17:19:07 start sheet 0 Export FOB:
+[2019-12-07] 17:19:07 Export Find Left Country:Latvia
+[2019-12-07] 17:19:07 start sheet 1 Import CIF:
+[2019-12-07] 17:19:07 Import Find Left Country:Latvia
+[2019-12-07] 17:19:07 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T121941.765.xlsx
+[2019-12-07] 17:19:07 start sheet 0 Export FOB:
+[2019-12-07] 17:19:07 Export Find Left Country:Lebanon
+[2019-12-07] 17:19:07 start sheet 1 Import CIF:
+[2019-12-07] 17:19:07 Import Find Left Country:Lebanon
+[2019-12-07] 17:19:07 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T121948.048.xlsx
+[2019-12-07] 17:19:07 start sheet 0 Export FOB:
+[2019-12-07] 17:19:07 Export Find Left Country:Lesotho
+[2019-12-07] 17:19:07 start sheet 1 Import CIF:
+[2019-12-07] 17:19:07 Import Find Left Country:Lesotho
+[2019-12-07] 17:19:07 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T121953.729.xlsx
+[2019-12-07] 17:19:07 start sheet 0 Export FOB:
+[2019-12-07] 17:19:07 Export Find Left Country:Liberia
+[2019-12-07] 17:19:07 start sheet 1 Import CIF:
+[2019-12-07] 17:19:07 Import Find Left Country:Liberia
+[2019-12-07] 17:19:07 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122000.553.xlsx
+[2019-12-07] 17:19:07 start sheet 0 Export FOB:
+[2019-12-07] 17:19:07 Export Find Left Country:Libya
+[2019-12-07] 17:19:07 start sheet 1 Import CIF:
+[2019-12-07] 17:19:07 Import Find Left Country:Libya
+[2019-12-07] 17:19:07 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122008.166.xlsx
+[2019-12-07] 17:19:07 start sheet 0 Export FOB:
+[2019-12-07] 17:19:07 Export Find Left Country:Lithuania
+[2019-12-07] 17:19:07 start sheet 1 Import CIF:
+[2019-12-07] 17:19:07 Import Find Left Country:Lithuania
+[2019-12-07] 17:19:07 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122125.604.xlsx
+[2019-12-07] 17:19:07 start sheet 0 Export FOB:
+[2019-12-07] 17:19:07 Export Find Left Country:Luxembourg
+[2019-12-07] 17:19:07 start sheet 1 Import CIF:
+[2019-12-07] 17:19:07 Import Find Left Country:Luxembourg
+[2019-12-07] 17:19:07 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122134.898.xlsx
+[2019-12-07] 17:19:07 start sheet 0 Export FOB:
+[2019-12-07] 17:19:07 Export Find Left Country:Madagascar
+[2019-12-07] 17:19:07 start sheet 1 Import CIF:
+[2019-12-07] 17:19:07 Import Find Left Country:Madagascar
+[2019-12-07] 17:19:07 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122145.337.xlsx
+[2019-12-07] 17:19:07 start sheet 0 Export FOB:
+[2019-12-07] 17:19:07 Export Find Left Country:Malawi
+[2019-12-07] 17:19:07 start sheet 1 Import CIF:
+[2019-12-07] 17:19:07 Import Find Left Country:Malawi
+[2019-12-07] 17:19:07 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122153.314.xlsx
+[2019-12-07] 17:19:07 start sheet 0 Export FOB:
+[2019-12-07] 17:19:07 Export Find Left Country:Malaysia
+[2019-12-07] 17:19:07 start sheet 1 Import CIF:
+[2019-12-07] 17:19:07 Import Find Left Country:Malaysia
+[2019-12-07] 17:19:07 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122210.464.xlsx
+[2019-12-07] 17:19:07 start sheet 0 Export FOB:
+[2019-12-07] 17:19:08 Export Find Left Country:Maldives
+[2019-12-07] 17:19:08 start sheet 1 Import CIF:
+[2019-12-07] 17:19:08 Import Find Left Country:Maldives
+[2019-12-07] 17:19:08 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122220.633.xlsx
+[2019-12-07] 17:19:08 start sheet 0 Export FOB:
+[2019-12-07] 17:19:08 Export Find Left Country:Mali
+[2019-12-07] 17:19:08 start sheet 1 Import CIF:
+[2019-12-07] 17:19:08 Import Find Left Country:Mali
+[2019-12-07] 17:19:08 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122232.993.xlsx
+[2019-12-07] 17:19:08 start sheet 0 Export FOB:
+[2019-12-07] 17:19:08 Export Find Left Country:Malta
+[2019-12-07] 17:19:08 start sheet 1 Import CIF:
+[2019-12-07] 17:19:08 Import Find Left Country:Malta
+[2019-12-07] 17:19:08 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122246.468.xlsx
+[2019-12-07] 17:19:08 start sheet 0 Export FOB:
+[2019-12-07] 17:19:08 Export Find Left Country:Marshall Islands
+[2019-12-07] 17:19:08 start sheet 1 Import CIF:
+[2019-12-07] 17:19:08 Import Find Left Country:Marshall Islands
+[2019-12-07] 17:19:08 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122257.370.xlsx
+[2019-12-07] 17:19:08 start sheet 0 Export FOB:
+[2019-12-07] 17:19:08 Export Find Left Country:Mauritania
+[2019-12-07] 17:19:08 start sheet 1 Import CIF:
+[2019-12-07] 17:19:08 Import Find Left Country:Mauritania
+[2019-12-07] 17:19:08 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122306.168.xlsx
+[2019-12-07] 17:19:08 start sheet 0 Export FOB:
+[2019-12-07] 17:19:08 Export Find Left Country:Mauritania
+[2019-12-07] 17:19:08 start sheet 1 Import CIF:
+[2019-12-07] 17:19:08 Import Find Left Country:Mauritania
+[2019-12-07] 17:19:08 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122314.901.xlsx
+[2019-12-07] 17:19:08 start sheet 0 Export FOB:
+[2019-12-07] 17:19:08 Export Find Left Country:Mauritius
+[2019-12-07] 17:19:08 start sheet 1 Import CIF:
+[2019-12-07] 17:19:08 Import Find Left Country:Mauritius
+[2019-12-07] 17:19:08 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122328.602.xlsx
+[2019-12-07] 17:19:08 start sheet 0 Export FOB:
+[2019-12-07] 17:19:08 Export Find Left Country:Mexico
+[2019-12-07] 17:19:08 start sheet 1 Import CIF:
+[2019-12-07] 17:19:08 Import Find Left Country:Mexico
+[2019-12-07] 17:19:08 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122341.251.xlsx
+[2019-12-07] 17:19:08 start sheet 0 Export FOB:
+[2019-12-07] 17:19:08 Export Find Left Country:Micronesia
+[2019-12-07] 17:19:08 start sheet 1 Import CIF:
+[2019-12-07] 17:19:08 Import Find Left Country:Micronesia
+[2019-12-07] 17:19:08 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122355.243.xlsx
+[2019-12-07] 17:19:08 start sheet 0 Export FOB:
+[2019-12-07] 17:19:08 Export Find Left Country:Moldova
+[2019-12-07] 17:19:08 start sheet 1 Import CIF:
+[2019-12-07] 17:19:08 Import Find Left Country:Moldova
+[2019-12-07] 17:19:08 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122404.312.xlsx
+[2019-12-07] 17:19:08 start sheet 0 Export FOB:
+[2019-12-07] 17:19:08 Export Find Left Country:Mongolia
+[2019-12-07] 17:19:08 start sheet 1 Import CIF:
+[2019-12-07] 17:19:08 Import Find Left Country:Mongolia
+[2019-12-07] 17:19:08 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122420.704.xlsx
+[2019-12-07] 17:19:08 start sheet 0 Export FOB:
+[2019-12-07] 17:19:08 Export Find Left Country:Montenegro
+[2019-12-07] 17:19:08 start sheet 1 Import CIF:
+[2019-12-07] 17:19:08 Import Find Left Country:Montenegro
+[2019-12-07] 17:19:08 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122430.952.xlsx
+[2019-12-07] 17:19:08 start sheet 0 Export FOB:
+[2019-12-07] 17:19:08 Export Find Left Country:Montserrat
+[2019-12-07] 17:19:08 start sheet 1 Import CIF:
+[2019-12-07] 17:19:08 Import Find Left Country:Montserrat
+[2019-12-07] 17:19:08 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122443.066.xlsx
+[2019-12-07] 17:19:08 start sheet 0 Export FOB:
+[2019-12-07] 17:19:08 Export Find Left Country:Morocco
+[2019-12-07] 17:19:08 start sheet 1 Import CIF:
+[2019-12-07] 17:19:08 Import Find Left Country:Morocco
+[2019-12-07] 17:19:08 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122452.618.xlsx
+[2019-12-07] 17:19:08 start sheet 0 Export FOB:
+[2019-12-07] 17:19:08 Export Find Left Country:Mozambique
+[2019-12-07] 17:19:08 start sheet 1 Import CIF:
+[2019-12-07] 17:19:08 Import Find Left Country:Mozambique
+[2019-12-07] 17:19:08 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122502.999.xlsx
+[2019-12-07] 17:19:08 start sheet 0 Export FOB:
+[2019-12-07] 17:19:08 Export Find Left Country:Myanmar
+[2019-12-07] 17:19:08 start sheet 1 Import CIF:
+[2019-12-07] 17:19:08 Import Find Left Country:Myanmar
+[2019-12-07] 17:19:08 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122513.675.xlsx
+[2019-12-07] 17:19:08 start sheet 0 Export FOB:
+[2019-12-07] 17:19:08 Export Find Left Country:Namibia
+[2019-12-07] 17:19:08 start sheet 1 Import CIF:
+[2019-12-07] 17:19:08 Import Find Left Country:Namibia
+[2019-12-07] 17:19:08 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122523.833.xlsx
+[2019-12-07] 17:19:08 start sheet 0 Export FOB:
+[2019-12-07] 17:19:08 Export Find Left Country:Nauru
+[2019-12-07] 17:19:08 start sheet 1 Import CIF:
+[2019-12-07] 17:19:08 Import Find Left Country:Nauru
+[2019-12-07] 17:19:08 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122533.430.xlsx
+[2019-12-07] 17:19:08 start sheet 0 Export FOB:
+[2019-12-07] 17:19:08 Export Find Left Country:Nepal
+[2019-12-07] 17:19:08 start sheet 1 Import CIF:
+[2019-12-07] 17:19:09 Import Find Left Country:Nepal
+[2019-12-07] 17:19:09 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122547.123.xlsx
+[2019-12-07] 17:19:09 start sheet 0 Export FOB:
+[2019-12-07] 17:19:09 Export Find Left Country:Netherlands
+[2019-12-07] 17:19:09 start sheet 1 Import CIF:
+[2019-12-07] 17:19:09 Import Find Left Country:Netherlands
+[2019-12-07] 17:19:09 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122556.024.xlsx
+[2019-12-07] 17:19:09 start sheet 0 Export FOB:
+[2019-12-07] 17:19:09 Export Find Left Country:Netherlands Antilles
+[2019-12-07] 17:19:09 start sheet 1 Import CIF:
+[2019-12-07] 17:19:09 Import Find Left Country:Netherlands Antilles
+[2019-12-07] 17:19:09 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122610.496.xlsx
+[2019-12-07] 17:19:09 start sheet 0 Export FOB:
+[2019-12-07] 17:19:09 Export Find Left Country:New Caledonia
+[2019-12-07] 17:19:09 start sheet 1 Import CIF:
+[2019-12-07] 17:19:09 Import Find Left Country:New Caledonia
+[2019-12-07] 17:19:09 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122618.233.xlsx
+[2019-12-07] 17:19:09 start sheet 0 Export FOB:
+[2019-12-07] 17:19:09 Export Find Left Country:New Zealand
+[2019-12-07] 17:19:09 start sheet 1 Import CIF:
+[2019-12-07] 17:19:09 Import Find Left Country:New Zealand
+[2019-12-07] 17:19:09 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122632.844.xlsx
+[2019-12-07] 17:19:09 start sheet 0 Export FOB:
+[2019-12-07] 17:19:09 Export Find Left Country:Nicaragua
+[2019-12-07] 17:19:09 start sheet 1 Import CIF:
+[2019-12-07] 17:19:09 Import Find Left Country:Nicaragua
+[2019-12-07] 17:19:09 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122644.747.xlsx
+[2019-12-07] 17:19:09 start sheet 0 Export FOB:
+[2019-12-07] 17:19:09 Export Find Left Country:Niger
+[2019-12-07] 17:19:09 start sheet 1 Import CIF:
+[2019-12-07] 17:19:09 Import Find Left Country:Niger
+[2019-12-07] 17:19:09 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122658.384.xlsx
+[2019-12-07] 17:19:09 start sheet 0 Export FOB:
+[2019-12-07] 17:19:09 Export Find Left Country:Nigeria
+[2019-12-07] 17:19:09 start sheet 1 Import CIF:
+[2019-12-07] 17:19:09 Import Find Left Country:Nigeria
+[2019-12-07] 17:19:09 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122906.759.xlsx
+[2019-12-07] 17:19:09 start sheet 0 Export FOB:
+[2019-12-07] 17:19:09 Export Find Left Country:Nigeria
+[2019-12-07] 17:19:09 start sheet 1 Import CIF:
+[2019-12-07] 17:19:09 Import Find Left Country:Nigeria
+[2019-12-07] 17:19:09 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122918.291.xlsx
+[2019-12-07] 17:19:09 start sheet 0 Export FOB:
+[2019-12-07] 17:19:09 Export Find Left Country:North Korea
+[2019-12-07] 17:19:09 start sheet 1 Import CIF:
+[2019-12-07] 17:19:09 Import Find Left Country:North Korea
+[2019-12-07] 17:19:09 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T122929.761.xlsx
+[2019-12-07] 17:19:09 start sheet 0 Export FOB:
+[2019-12-07] 17:19:09 Export Find Left Country:North Macedonia, Republic of
+[2019-12-07] 17:19:09 start sheet 1 Import CIF:
+[2019-12-07] 17:19:09 Import Find Left Country:North Macedonia, Republic of
+[2019-12-07] 17:19:09 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123001.053.xlsx
+[2019-12-07] 17:19:09 start sheet 0 Export FOB:
+[2019-12-07] 17:19:09 Export Find Left Country:Norway
+[2019-12-07] 17:19:09 start sheet 1 Import CIF:
+[2019-12-07] 17:19:09 Import Find Left Country:Norway
+[2019-12-07] 17:19:09 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123124.167.xlsx
+[2019-12-07] 17:19:09 start sheet 0 Export FOB:
+[2019-12-07] 17:19:09 Export Find Left Country:Norway
+[2019-12-07] 17:19:09 start sheet 1 Import CIF:
+[2019-12-07] 17:19:09 Import Find Left Country:Norway
+[2019-12-07] 17:19:09 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123135.127.xlsx
+[2019-12-07] 17:19:09 start sheet 0 Export FOB:
+[2019-12-07] 17:19:09 Export Find Left Country:Oman
+[2019-12-07] 17:19:09 start sheet 1 Import CIF:
+[2019-12-07] 17:19:09 Import Find Left Country:Oman
+[2019-12-07] 17:19:09 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123232.750.xlsx
+[2019-12-07] 17:19:09 start sheet 0 Export FOB:
+[2019-12-07] 17:19:09 Export Find Left Country:Oman
+[2019-12-07] 17:19:09 start sheet 1 Import CIF:
+[2019-12-07] 17:19:09 Import Find Left Country:Oman
+[2019-12-07] 17:19:09 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123245.492.xlsx
+[2019-12-07] 17:19:09 start sheet 0 Export FOB:
+[2019-12-07] 17:19:09 Export Find Left Country:Pakistan
+[2019-12-07] 17:19:09 start sheet 1 Import CIF:
+[2019-12-07] 17:19:09 Import Find Left Country:Pakistan
+[2019-12-07] 17:19:09 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123257.579.xlsx
+[2019-12-07] 17:19:09 start sheet 0 Export FOB:
+[2019-12-07] 17:19:09 Export Find Left Country:Palau
+[2019-12-07] 17:19:09 start sheet 1 Import CIF:
+[2019-12-07] 17:19:09 Import Find Left Country:Palau
+[2019-12-07] 17:19:09 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123401.878.xlsx
+[2019-12-07] 17:19:09 start sheet 0 Export FOB:
+[2019-12-07] 17:19:10 Export Find Left Country:Panama
+[2019-12-07] 17:19:10 start sheet 1 Import CIF:
+[2019-12-07] 17:19:10 Import Find Left Country:Panama
+[2019-12-07] 17:19:10 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123419.928.xlsx
+[2019-12-07] 17:19:10 start sheet 0 Export FOB:
+[2019-12-07] 17:19:10 Export Find Left Country:Papua New Guinea
+[2019-12-07] 17:19:10 start sheet 1 Import CIF:
+[2019-12-07] 17:19:10 Import Find Left Country:Papua New Guinea
+[2019-12-07] 17:19:10 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123431.839.xlsx
+[2019-12-07] 17:19:10 start sheet 0 Export FOB:
+[2019-12-07] 17:19:10 Export Find Left Country:Paraguay
+[2019-12-07] 17:19:10 start sheet 1 Import CIF:
+[2019-12-07] 17:19:10 Import Find Left Country:Paraguay
+[2019-12-07] 17:19:10 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123444.992.xlsx
+[2019-12-07] 17:19:10 start sheet 0 Export FOB:
+[2019-12-07] 17:19:10 Export Find Left Country:Peru
+[2019-12-07] 17:19:10 start sheet 1 Import CIF:
+[2019-12-07] 17:19:10 Import Find Left Country:Peru
+[2019-12-07] 17:19:10 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123500.941.xlsx
+[2019-12-07] 17:19:10 start sheet 0 Export FOB:
+[2019-12-07] 17:19:10 Export Find Left Country:Philippines
+[2019-12-07] 17:19:10 start sheet 1 Import CIF:
+[2019-12-07] 17:19:10 Import Find Left Country:Philippines
+[2019-12-07] 17:19:10 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123554.198.xlsx
+[2019-12-07] 17:19:10 start sheet 0 Export FOB:
+[2019-12-07] 17:19:10 Export Find Left Country:Philippines
+[2019-12-07] 17:19:10 start sheet 1 Import CIF:
+[2019-12-07] 17:19:10 Import Find Left Country:Philippines
+[2019-12-07] 17:19:10 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123603.486.xlsx
+[2019-12-07] 17:19:10 start sheet 0 Export FOB:
+[2019-12-07] 17:19:10 Export Find Left Country:Poland
+[2019-12-07] 17:19:10 start sheet 1 Import CIF:
+[2019-12-07] 17:19:10 Import Find Left Country:Poland
+[2019-12-07] 17:19:10 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123611.450.xlsx
+[2019-12-07] 17:19:10 start sheet 0 Export FOB:
+[2019-12-07] 17:19:10 Export Find Left Country:Portugal
+[2019-12-07] 17:19:10 start sheet 1 Import CIF:
+[2019-12-07] 17:19:10 Import Find Left Country:Portugal
+[2019-12-07] 17:19:10 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123622.989.xlsx
+[2019-12-07] 17:19:10 start sheet 0 Export FOB:
+[2019-12-07] 17:19:10 Export Find Left Country:Qatar
+[2019-12-07] 17:19:10 start sheet 1 Import CIF:
+[2019-12-07] 17:19:10 Import Find Left Country:Qatar
+[2019-12-07] 17:19:10 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123638.341.xlsx
+[2019-12-07] 17:19:10 start sheet 0 Export FOB:
+[2019-12-07] 17:19:10 Export Find Left Country:Romania
+[2019-12-07] 17:19:10 start sheet 1 Import CIF:
+[2019-12-07] 17:19:10 Import Find Left Country:Romania
+[2019-12-07] 17:19:10 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123650.156.xlsx
+[2019-12-07] 17:19:10 start sheet 0 Export FOB:
+[2019-12-07] 17:19:10 Export Find Left Country:Russian Federation
+[2019-12-07] 17:19:10 start sheet 1 Import CIF:
+[2019-12-07] 17:19:10 Import Find Left Country:Russian Federation
+[2019-12-07] 17:19:10 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123704.849.xlsx
+[2019-12-07] 17:19:10 start sheet 0 Export FOB:
+[2019-12-07] 17:19:10 Export Find Left Country:Rwanda
+[2019-12-07] 17:19:10 start sheet 1 Import CIF:
+[2019-12-07] 17:19:10 Import Find Left Country:Rwanda
+[2019-12-07] 17:19:10 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123736.038.xlsx
+[2019-12-07] 17:19:10 start sheet 0 Export FOB:
+[2019-12-07] 17:19:10 Export Find Left Country:Rwanda
+[2019-12-07] 17:19:10 start sheet 1 Import CIF:
+[2019-12-07] 17:19:10 Import Find Left Country:Rwanda
+[2019-12-07] 17:19:10 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123750.832.xlsx
+[2019-12-07] 17:19:10 start sheet 0 Export FOB:
+[2019-12-07] 17:19:10 Export Find Left Country:Samoa
+[2019-12-07] 17:19:10 start sheet 1 Import CIF:
+[2019-12-07] 17:19:10 Import Find Left Country:Samoa
+[2019-12-07] 17:19:10 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123758.847.xlsx
+[2019-12-07] 17:19:10 start sheet 0 Export FOB:
+[2019-12-07] 17:19:10 Export Find Left Country:San Marino
+[2019-12-07] 17:19:10 start sheet 1 Import CIF:
+[2019-12-07] 17:19:10 Import Find Left Country:San Marino
+[2019-12-07] 17:19:10 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123814.999.xlsx
+[2019-12-07] 17:19:10 start sheet 0 Export FOB:
+[2019-12-07] 17:19:10 Export Find Left Country:São Tomé & Príncipe
+[2019-12-07] 17:19:10 start sheet 1 Import CIF:
+[2019-12-07] 17:19:10 Import Find Left Country:São Tomé & Príncipe
+[2019-12-07] 17:19:10 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123831.733.xlsx
+[2019-12-07] 17:19:10 start sheet 0 Export FOB:
+[2019-12-07] 17:19:10 Export Find Left Country:Saudi Arabia
+[2019-12-07] 17:19:10 start sheet 1 Import CIF:
+[2019-12-07] 17:19:11 Import Find Left Country:Saudi Arabia
+[2019-12-07] 17:19:11 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123844.040.xlsx
+[2019-12-07] 17:19:11 start sheet 0 Export FOB:
+[2019-12-07] 17:19:11 Export Find Left Country:Senegal
+[2019-12-07] 17:19:11 start sheet 1 Import CIF:
+[2019-12-07] 17:19:11 Import Find Left Country:Senegal
+[2019-12-07] 17:19:11 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123906.223.xlsx
+[2019-12-07] 17:19:11 start sheet 0 Export FOB:
+[2019-12-07] 17:19:11 Export Find Left Country:Serbia, Republic of
+[2019-12-07] 17:19:11 start sheet 1 Import CIF:
+[2019-12-07] 17:19:11 Import Find Left Country:Serbia, Republic of
+[2019-12-07] 17:19:11 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123915.252.xlsx
+[2019-12-07] 17:19:11 start sheet 0 Export FOB:
+[2019-12-07] 17:19:11 Export Find Left Country:Seychelles
+[2019-12-07] 17:19:11 start sheet 1 Import CIF:
+[2019-12-07] 17:19:11 Import Find Left Country:Seychelles
+[2019-12-07] 17:19:11 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123923.399.xlsx
+[2019-12-07] 17:19:11 start sheet 0 Export FOB:
+[2019-12-07] 17:19:11 Export Find Left Country:Sierra Leone
+[2019-12-07] 17:19:11 start sheet 1 Import CIF:
+[2019-12-07] 17:19:11 Import Find Left Country:Sierra Leone
+[2019-12-07] 17:19:11 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123934.690.xlsx
+[2019-12-07] 17:19:11 start sheet 0 Export FOB:
+[2019-12-07] 17:19:11 Export Find Left Country:Singapore
+[2019-12-07] 17:19:11 start sheet 1 Import CIF:
+[2019-12-07] 17:19:11 Import Find Left Country:Singapore
+[2019-12-07] 17:19:11 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123948.607.xlsx
+[2019-12-07] 17:19:11 start sheet 0 Export FOB:
+[2019-12-07] 17:19:11 Export Find Left Country:Sint Maarten
+[2019-12-07] 17:19:11 start sheet 1 Import CIF:
+[2019-12-07] 17:19:11 Import Find Left Country:Sint Maarten
+[2019-12-07] 17:19:11 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T123959.785.xlsx
+[2019-12-07] 17:19:11 start sheet 0 Export FOB:
+[2019-12-07] 17:19:11 Export Find Left Country:Slovak Republic
+[2019-12-07] 17:19:11 start sheet 1 Import CIF:
+[2019-12-07] 17:19:11 Import Find Left Country:Slovak Republic
+[2019-12-07] 17:19:11 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124013.576.xlsx
+[2019-12-07] 17:19:11 start sheet 0 Export FOB:
+[2019-12-07] 17:19:11 Export Find Left Country:Slovenia
+[2019-12-07] 17:19:11 start sheet 1 Import CIF:
+[2019-12-07] 17:19:11 Import Find Left Country:Slovenia
+[2019-12-07] 17:19:11 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124023.499.xlsx
+[2019-12-07] 17:19:11 start sheet 0 Export FOB:
+[2019-12-07] 17:19:11 Export Find Left Country:Solomon Islands
+[2019-12-07] 17:19:11 start sheet 1 Import CIF:
+[2019-12-07] 17:19:11 Import Find Left Country:Solomon Islands
+[2019-12-07] 17:19:11 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124036.610.xlsx
+[2019-12-07] 17:19:11 start sheet 0 Export FOB:
+[2019-12-07] 17:19:11 Export Find Left Country:Somalia
+[2019-12-07] 17:19:11 start sheet 1 Import CIF:
+[2019-12-07] 17:19:11 Import Find Left Country:Somalia
+[2019-12-07] 17:19:11 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124051.034.xlsx
+[2019-12-07] 17:19:11 start sheet 0 Export FOB:
+[2019-12-07] 17:19:11 Export Find Left Country:South Africa
+[2019-12-07] 17:19:11 start sheet 1 Import CIF:
+[2019-12-07] 17:19:11 Import Find Left Country:South Africa
+[2019-12-07] 17:19:11 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124113.662.xlsx
+[2019-12-07] 17:19:11 start sheet 0 Export FOB:
+[2019-12-07] 17:19:11 Export Find Left Country:South Sudan, Rep. of
+[2019-12-07] 17:19:11 start sheet 1 Import CIF:
+[2019-12-07] 17:19:11 Import Find Left Country:South Sudan, Rep. of
+[2019-12-07] 17:19:11 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124125.230.xlsx
+[2019-12-07] 17:19:11 start sheet 0 Export FOB:
+[2019-12-07] 17:19:11 Export Find Left Country:Spain
+[2019-12-07] 17:19:11 start sheet 1 Import CIF:
+[2019-12-07] 17:19:11 Import Find Left Country:Spain
+[2019-12-07] 17:19:11 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124148.494.xlsx
+[2019-12-07] 17:19:11 start sheet 0 Export FOB:
+[2019-12-07] 17:19:11 Export Find Left Country:Sri Lanka
+[2019-12-07] 17:19:11 start sheet 1 Import CIF:
+[2019-12-07] 17:19:11 Import Find Left Country:Sri Lanka
+[2019-12-07] 17:19:11 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124159.166.xlsx
+[2019-12-07] 17:19:11 start sheet 0 Export FOB:
+[2019-12-07] 17:19:11 Export Find Left Country:St. Kitts and Nevis
+[2019-12-07] 17:19:11 start sheet 1 Import CIF:
+[2019-12-07] 17:19:11 Import Find Left Country:St. Kitts and Nevis
+[2019-12-07] 17:19:11 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124210.221.xlsx
+[2019-12-07] 17:19:11 start sheet 0 Export FOB:
+[2019-12-07] 17:19:11 Export Find Left Country:St. Lucia
+[2019-12-07] 17:19:11 start sheet 1 Import CIF:
+[2019-12-07] 17:19:11 Import Find Left Country:St. Lucia
+[2019-12-07] 17:19:11 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124219.495.xlsx
+[2019-12-07] 17:19:11 start sheet 0 Export FOB:
+[2019-12-07] 17:19:11 Export Find Left Country:St. Vincent & Grens.
+[2019-12-07] 17:19:11 start sheet 1 Import CIF:
+[2019-12-07] 17:19:11 Import Find Left Country:St. Vincent & Grens.
+[2019-12-07] 17:19:11 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124247.837.xlsx
+[2019-12-07] 17:19:11 start sheet 0 Export FOB:
+[2019-12-07] 17:19:11 Export Find Left Country:Sudan
+[2019-12-07] 17:19:11 start sheet 1 Import CIF:
+[2019-12-07] 17:19:12 Import Find Left Country:Sudan
+[2019-12-07] 17:19:12 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124307.571.xlsx
+[2019-12-07] 17:19:12 start sheet 0 Export FOB:
+[2019-12-07] 17:19:12 Export Find Left Country:Suriname
+[2019-12-07] 17:19:12 start sheet 1 Import CIF:
+[2019-12-07] 17:19:12 Import Find Left Country:Suriname
+[2019-12-07] 17:19:12 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124319.615.xlsx
+[2019-12-07] 17:19:12 start sheet 0 Export FOB:
+[2019-12-07] 17:19:12 Export Find Left Country:Sweden
+[2019-12-07] 17:19:12 start sheet 1 Import CIF:
+[2019-12-07] 17:19:12 Import Find Left Country:Sweden
+[2019-12-07] 17:19:12 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124344.384.xlsx
+[2019-12-07] 17:19:12 start sheet 0 Export FOB:
+[2019-12-07] 17:19:12 Export Find Left Country:Switzerland
+[2019-12-07] 17:19:12 start sheet 1 Import CIF:
+[2019-12-07] 17:19:12 Import Find Left Country:Switzerland
+[2019-12-07] 17:19:12 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124407.787.xlsx
+[2019-12-07] 17:19:12 start sheet 0 Export FOB:
+[2019-12-07] 17:19:12 Export Find Left Country:Syrian Arab Republic
+[2019-12-07] 17:19:12 start sheet 1 Import CIF:
+[2019-12-07] 17:19:12 Import Find Left Country:Syrian Arab Republic
+[2019-12-07] 17:19:12 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124423.923.xlsx
+[2019-12-07] 17:19:12 start sheet 0 Export FOB:
+[2019-12-07] 17:19:12 Export Find Left Country:Syrian Arab Republic
+[2019-12-07] 17:19:12 start sheet 1 Import CIF:
+[2019-12-07] 17:19:12 Import Find Left Country:Syrian Arab Republic
+[2019-12-07] 17:19:12 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124442.360.xlsx
+[2019-12-07] 17:19:12 start sheet 0 Export FOB:
+[2019-12-07] 17:19:12 Export Find Left Country:Tajikistan
+[2019-12-07] 17:19:12 start sheet 1 Import CIF:
+[2019-12-07] 17:19:12 Import Find Left Country:Tajikistan
+[2019-12-07] 17:19:12 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124446.732.xlsx
+[2019-12-07] 17:19:12 start sheet 0 Export FOB:
+[2019-12-07] 17:19:12 Export Find Left Country:Tajikistan
+[2019-12-07] 17:19:12 start sheet 1 Import CIF:
+[2019-12-07] 17:19:12 Import Find Left Country:Tajikistan
+[2019-12-07] 17:19:12 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124519.090.xlsx
+[2019-12-07] 17:19:12 start sheet 0 Export FOB:
+[2019-12-07] 17:19:12 Export Find Left Country:Tanzania
+[2019-12-07] 17:19:12 start sheet 1 Import CIF:
+[2019-12-07] 17:19:12 Import Find Left Country:Tanzania
+[2019-12-07] 17:19:12 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124532.256.xlsx
+[2019-12-07] 17:19:12 start sheet 0 Export FOB:
+[2019-12-07] 17:19:12 Export Find Left Country:Tanzania
+[2019-12-07] 17:19:12 start sheet 1 Import CIF:
+[2019-12-07] 17:19:12 Import Find Left Country:Tanzania
+[2019-12-07] 17:19:12 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124547.458.xlsx
+[2019-12-07] 17:19:12 start sheet 0 Export FOB:
+[2019-12-07] 17:19:12 Export Find Left Country:Thailand
+[2019-12-07] 17:19:12 start sheet 1 Import CIF:
+[2019-12-07] 17:19:12 Import Find Left Country:Thailand
+[2019-12-07] 17:19:12 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124728.164.xlsx
+[2019-12-07] 17:19:12 start sheet 0 Export FOB:
+[2019-12-07] 17:19:12 Export Find Left Country:Thailand
+[2019-12-07] 17:19:12 start sheet 1 Import CIF:
+[2019-12-07] 17:19:12 Import Find Left Country:Thailand
+[2019-12-07] 17:19:12 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124759.499.xlsx
+[2019-12-07] 17:19:12 start sheet 0 Export FOB:
+[2019-12-07] 17:19:12 Export Find Left Country:Timor-Leste
+[2019-12-07] 17:19:12 start sheet 1 Import CIF:
+[2019-12-07] 17:19:12 Import Find Left Country:Timor-Leste
+[2019-12-07] 17:19:12 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124817.381.xlsx
+[2019-12-07] 17:19:12 start sheet 0 Export FOB:
+[2019-12-07] 17:19:12 Export Find Left Country:Togo
+[2019-12-07] 17:19:12 start sheet 1 Import CIF:
+[2019-12-07] 17:19:12 Import Find Left Country:Togo
+[2019-12-07] 17:19:12 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124826.807.xlsx
+[2019-12-07] 17:19:12 start sheet 0 Export FOB:
+[2019-12-07] 17:19:12 Export Find Left Country:Tonga
+[2019-12-07] 17:19:12 start sheet 1 Import CIF:
+[2019-12-07] 17:19:12 Import Find Left Country:Tonga
+[2019-12-07] 17:19:12 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124834.692.xlsx
+[2019-12-07] 17:19:12 start sheet 0 Export FOB:
+[2019-12-07] 17:19:12 Export Find Left Country:Trinidad and Tobago
+[2019-12-07] 17:19:12 start sheet 1 Import CIF:
+[2019-12-07] 17:19:12 Import Find Left Country:Trinidad and Tobago
+[2019-12-07] 17:19:12 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124847.565.xlsx
+[2019-12-07] 17:19:12 start sheet 0 Export FOB:
+[2019-12-07] 17:19:12 Export Find Left Country:Tunisia
+[2019-12-07] 17:19:12 start sheet 1 Import CIF:
+[2019-12-07] 17:19:12 Import Find Left Country:Tunisia
+[2019-12-07] 17:19:12 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124858.207.xlsx
+[2019-12-07] 17:19:12 start sheet 0 Export FOB:
+[2019-12-07] 17:19:12 Export Find Left Country:Turkey
+[2019-12-07] 17:19:12 start sheet 1 Import CIF:
+[2019-12-07] 17:19:12 Import Find Left Country:Turkey
+[2019-12-07] 17:19:12 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124908.072.xlsx
+[2019-12-07] 17:19:12 start sheet 0 Export FOB:
+[2019-12-07] 17:19:12 Export Find Left Country:Turkmenistan
+[2019-12-07] 17:19:12 start sheet 1 Import CIF:
+[2019-12-07] 17:19:12 Import Find Left Country:Turkmenistan
+[2019-12-07] 17:19:12 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124915.952.xlsx
+[2019-12-07] 17:19:12 start sheet 0 Export FOB:
+[2019-12-07] 17:19:12 Export Find Left Country:Tuvalu
+[2019-12-07] 17:19:12 start sheet 1 Import CIF:
+[2019-12-07] 17:19:12 Import Find Left Country:Tuvalu
+[2019-12-07] 17:19:12 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124934.596.xlsx
+[2019-12-07] 17:19:12 start sheet 0 Export FOB:
+[2019-12-07] 17:19:13 Export Find Left Country:Uganda
+[2019-12-07] 17:19:13 start sheet 1 Import CIF:
+[2019-12-07] 17:19:13 Import Find Left Country:Uganda
+[2019-12-07] 17:19:13 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124944.219.xlsx
+[2019-12-07] 17:19:13 start sheet 0 Export FOB:
+[2019-12-07] 17:19:13 Export Find Left Country:Ukraine
+[2019-12-07] 17:19:13 start sheet 1 Import CIF:
+[2019-12-07] 17:19:13 Import Find Left Country:Ukraine
+[2019-12-07] 17:19:13 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T124956.383.xlsx
+[2019-12-07] 17:19:13 start sheet 0 Export FOB:
+[2019-12-07] 17:19:13 Export Find Left Country:United Arab Emirates
+[2019-12-07] 17:19:13 start sheet 1 Import CIF:
+[2019-12-07] 17:19:13 Import Find Left Country:United Arab Emirates
+[2019-12-07] 17:19:13 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125006.756.xlsx
+[2019-12-07] 17:19:13 start sheet 0 Export FOB:
+[2019-12-07] 17:19:13 Export Find Left Country:United Kingdom
+[2019-12-07] 17:19:13 start sheet 1 Import CIF:
+[2019-12-07] 17:19:13 Import Find Left Country:United Kingdom
+[2019-12-07] 17:19:13 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125023.278.xlsx
+[2019-12-07] 17:19:13 start sheet 0 Export FOB:
+[2019-12-07] 17:19:13 Export Find Left Country:United States
+[2019-12-07] 17:19:13 start sheet 1 Import CIF:
+[2019-12-07] 17:19:13 Import Find Left Country:United States
+[2019-12-07] 17:19:13 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125128.125.xlsx
+[2019-12-07] 17:19:13 start sheet 0 Export FOB:
+[2019-12-07] 17:19:13 Export Find Left Country:Uruguay
+[2019-12-07] 17:19:13 start sheet 1 Import CIF:
+[2019-12-07] 17:19:13 Import Find Left Country:Uruguay
+[2019-12-07] 17:19:13 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125144.840.xlsx
+[2019-12-07] 17:19:13 start sheet 0 Export FOB:
+[2019-12-07] 17:19:13 Export Find Left Country:Uzbekistan
+[2019-12-07] 17:19:13 start sheet 1 Import CIF:
+[2019-12-07] 17:19:13 Import Find Left Country:Uzbekistan
+[2019-12-07] 17:19:13 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125157.498.xlsx
+[2019-12-07] 17:19:13 start sheet 0 Export FOB:
+[2019-12-07] 17:19:13 Export Find Left Country:Vanuatu
+[2019-12-07] 17:19:13 start sheet 1 Import CIF:
+[2019-12-07] 17:19:13 Import Find Left Country:Vanuatu
+[2019-12-07] 17:19:13 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125226.066.xlsx
+[2019-12-07] 17:19:13 start sheet 0 Export FOB:
+[2019-12-07] 17:19:13 Export Find Left Country:Vatican
+[2019-12-07] 17:19:13 start sheet 1 Import CIF:
+[2019-12-07] 17:19:13 Import Find Left Country:Vatican
+[2019-12-07] 17:19:13 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125241.948.xlsx
+[2019-12-07] 17:19:13 start sheet 0 Export FOB:
+[2019-12-07] 17:19:13 Export Find Left Country:Venezuela, Rep. Bol.
+[2019-12-07] 17:19:13 start sheet 1 Import CIF:
+[2019-12-07] 17:19:13 Import Find Left Country:Venezuela, Rep. Bol.
+[2019-12-07] 17:19:13 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125253.303.xlsx
+[2019-12-07] 17:19:13 start sheet 0 Export FOB:
+[2019-12-07] 17:19:13 Export Find Left Country:Vietnam
+[2019-12-07] 17:19:13 start sheet 1 Import CIF:
+[2019-12-07] 17:19:13 Import Find Left Country:Vietnam
+[2019-12-07] 17:19:13 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125307.591.xlsx
+[2019-12-07] 17:19:13 start sheet 0 Export FOB:
+[2019-12-07] 17:19:13 Export Find Left Country:West Bank and Gaza
+[2019-12-07] 17:19:13 start sheet 1 Import CIF:
+[2019-12-07] 17:19:13 Import Find Left Country:West Bank and Gaza
+[2019-12-07] 17:19:13 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125335.024.xlsx
+[2019-12-07] 17:19:13 start sheet 0 Export FOB:
+[2019-12-07] 17:19:13 Export Find Left Country:Yemen, Republic of
+[2019-12-07] 17:19:13 start sheet 1 Import CIF:
+[2019-12-07] 17:19:13 Import Find Left Country:Yemen, Republic of
+[2019-12-07] 17:19:13 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125403.179.xlsx
+[2019-12-07] 17:19:13 start sheet 0 Export FOB:
+[2019-12-07] 17:19:13 Export Find Left Country:Zambia
+[2019-12-07] 17:19:13 start sheet 1 Import CIF:
+[2019-12-07] 17:19:13 Import Find Left Country:Zambia
+[2019-12-07] 17:19:13 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125418.880.xlsx
+[2019-12-07] 17:19:13 start sheet 0 Export FOB:
+[2019-12-07] 17:19:13 Export Find Left Country:Zimbabwe
+[2019-12-07] 17:19:13 start sheet 1 Import CIF:
+[2019-12-07] 17:19:13 Import Find Left Country:Zimbabwe
+[2019-12-07] 17:19:13 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125439.898.xlsx
+[2019-12-07] 17:19:13 start sheet 0 Export FOB:
+[2019-12-07] 17:19:13 Export Find Left Country:World
+[2019-12-07] 17:19:13 start sheet 1 Import CIF:
+[2019-12-07] 17:19:13 Import Find Left Country:World
+[2019-12-07] 17:19:13 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125454.266.xlsx
+[2019-12-07] 17:19:13 start sheet 0 Export FOB:
+[2019-12-07] 17:19:13 Export Find Left Country:Advanced Economies
+[2019-12-07] 17:19:13 start sheet 1 Import CIF:
+[2019-12-07] 17:19:13 Import Find Left Country:Advanced Economies
+[2019-12-07] 17:19:13 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125503.662.xlsx
+[2019-12-07] 17:19:13 start sheet 0 Export FOB:
+[2019-12-07] 17:19:14 Export Find Left Country:Emerging & Dev. Countries
+[2019-12-07] 17:19:14 start sheet 1 Import CIF:
+[2019-12-07] 17:19:14 Import Find Left Country:Emerging & Dev. Countries
+[2019-12-07] 17:19:14 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125516.575.xlsx
+[2019-12-07] 17:19:14 start sheet 0 Export FOB:
+[2019-12-07] 17:19:14 Export Find Left Country:Emerging & Dev. Asia
+[2019-12-07] 17:19:14 start sheet 1 Import CIF:
+[2019-12-07] 17:19:14 Import Find Left Country:Emerging & Dev. Asia
+[2019-12-07] 17:19:14 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125530.322.xlsx
+[2019-12-07] 17:19:14 start sheet 0 Export FOB:
+[2019-12-07] 17:19:14 Export Find Left Country:Africa
+[2019-12-07] 17:19:14 start sheet 1 Import CIF:
+[2019-12-07] 17:19:14 Import Find Left Country:Africa
+[2019-12-07] 17:19:14 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125545.552.xlsx
+[2019-12-07] 17:19:14 start sheet 0 Export FOB:
+[2019-12-07] 17:19:14 Export Find Left Country:Sub-Saharan Africa
+[2019-12-07] 17:19:14 start sheet 1 Import CIF:
+[2019-12-07] 17:19:14 Import Find Left Country:Sub-Saharan Africa
+[2019-12-07] 17:19:14 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125558.624.xlsx
+[2019-12-07] 17:19:14 start sheet 0 Export FOB:
+[2019-12-07] 17:19:14 Export Find Left Country:Middle East
+[2019-12-07] 17:19:14 start sheet 1 Import CIF:
+[2019-12-07] 17:19:14 Import Find Left Country:Middle East
+[2019-12-07] 17:19:14 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125612.635.xlsx
+[2019-12-07] 17:19:14 start sheet 0 Export FOB:
+[2019-12-07] 17:19:14 Export Find Left Country:Middle East, N. Africa, Pakistan
+[2019-12-07] 17:19:14 start sheet 1 Import CIF:
+[2019-12-07] 17:19:14 Import Find Left Country:Middle East, N. Africa, Pakistan
+[2019-12-07] 17:19:14 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125626.035.xlsx
+[2019-12-07] 17:19:14 start sheet 0 Export FOB:
+[2019-12-07] 17:19:14 Export Find Left Country:Euro Area
+[2019-12-07] 17:19:14 start sheet 1 Import CIF:
+[2019-12-07] 17:19:14 Import Find Left Country:Euro Area
+[2019-12-07] 17:19:14 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125643.354.xlsx
+[2019-12-07] 17:19:14 start sheet 0 Export FOB:
+[2019-12-07] 17:19:14 Export Find Left Country:European Union
+[2019-12-07] 17:19:14 start sheet 1 Import CIF:
+[2019-12-07] 17:19:14 Import Find Left Country:European Union
+[2019-12-07] 17:19:14 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125704.189.xlsx
+[2019-12-07] 17:19:14 start sheet 0 Export FOB:
+[2019-12-07] 17:19:14 Export Find Left Country:Europe
+[2019-12-07] 17:19:14 start sheet 1 Import CIF:
+[2019-12-07] 17:19:14 Import Find Left Country:Europe
+[2019-12-07] 17:19:14 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125731.132.xlsx
+[2019-12-07] 17:19:14 start sheet 0 Export FOB:
+[2019-12-07] 17:19:14 Export Find Left Country:Emerging & Dev. Europe
+[2019-12-07] 17:19:14 start sheet 1 Import CIF:
+[2019-12-07] 17:19:14 Import Find Left Country:Emerging & Dev. Europe
+[2019-12-07] 17:19:14 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125743.132.xlsx
+[2019-12-07] 17:19:14 start sheet 0 Export FOB:
+[2019-12-07] 17:19:14 Export Find Left Country:CIS
+[2019-12-07] 17:19:14 start sheet 1 Import CIF:
+[2019-12-07] 17:19:14 Import Find Left Country:CIS
+[2019-12-07] 17:19:14 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125809.390.xlsx
+[2019-12-07] 17:19:14 start sheet 0 Export FOB:
+[2019-12-07] 17:19:14 Export Find Left Country:Western Hemisphere
+[2019-12-07] 17:19:14 start sheet 1 Import CIF:
+[2019-12-07] 17:19:15 Import Find Left Country:Western Hemisphere
+[2019-12-07] 17:19:15 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125824.108.xlsx
+[2019-12-07] 17:19:15 start sheet 0 Export FOB:
+[2019-12-07] 17:19:15 Export Find Left Country:Other Countries n.i.e
+[2019-12-07] 17:19:15 start sheet 1 Import CIF:
+[2019-12-07] 17:19:15 Import Find Left Country:Other Countries n.i.e
+[2019-12-07] 17:19:15 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125837.696.xlsx
+[2019-12-07] 17:19:15 start sheet 0 Export FOB:
+[2019-12-07] 17:19:15 Export Find Left Country:Export earnings: fuel
+[2019-12-07] 17:19:15 start sheet 1 Import CIF:
+[2019-12-07] 17:19:15 Import Find Left Country:Export earnings: fuel
+[2019-12-07] 17:19:15 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co - 2019-12-07T125852.699.xlsx
+[2019-12-07] 17:19:15 start sheet 0 Export FOB:
+[2019-12-07] 17:19:15 Export Find Left Country:Export earnings: nonfuel
+[2019-12-07] 17:19:15 start sheet 1 Import CIF:
+[2019-12-07] 17:19:15 Import Find Left Country:Export earnings: nonfuel
+[2019-12-07] 17:19:15 start process excel is:./data\Exports_and_Imports_by_Areas_and_Co.xlsx
+[2019-12-07] 17:19:15 start sheet 0 Export FOB:
+[2019-12-07] 17:19:15 Export Find Left Country:Afghanistan, I.R. of
+[2019-12-07] 17:19:15 start sheet 1 Import CIF:
+[2019-12-07] 17:19:15 Import Find Left Country:Afghanistan, I.R. of
