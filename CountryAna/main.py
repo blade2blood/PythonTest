@@ -38,9 +38,9 @@ def add_country_import_data(country1, country2, data):
     country_data[1].setdefault(country1, {})[country2] = data
 
 
-def process_data(excel_op, excel, log, add_func, log_str):
+def process_data(excel_op, excel, log, index, add_func, log_str):
     left = None
-    for row, line in excel_op.gen_excel_row_line(excel, 0):
+    for row, line in excel_op.gen_excel_row_line(excel, index):
         line = preprocess_cell(line)
         if row == 3:
             left = line[0]
@@ -75,10 +75,10 @@ def main(path_name):
         log("start process excel is:%s", excel)
 
         log("start sheet 0 Export FOB:")
-        process_data(excel_op, excel, log, add_country_export_data, "Export")
+        process_data(excel_op, excel, log, 0, add_country_export_data, "Export")
 
         log("start sheet 1 Import CIF:")
-        process_data(excel_op, excel, log, add_country_export_data, "Import")
+        process_data(excel_op, excel, log, 1, add_country_import_data, "Import")
 
     std_log("正在写入Excel.....")
     write_country_data()
