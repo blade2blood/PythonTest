@@ -23,6 +23,22 @@ def gen_excel_row_line(excel_path, sheet_index=0):
         yield i, row
 
 
+def gen_csv_row_line(csv_path):
+    """
+    生成csv以行为返回单位的迭代器
+    :param csv_path: excel的路径
+    :return:
+    """
+    with open(csv_path) as fp:
+        line = fp.readline()
+        i = 0
+        while line:
+            line = line.split(",")
+            yield i, line
+            line = fp.readline()
+            i += 1
+
+
 def gen_excel_col_line(excel_path, sheet_index=0):
     """
     生成excel以列为返回单位的迭代器
