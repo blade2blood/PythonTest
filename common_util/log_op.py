@@ -9,6 +9,7 @@ import pprint
 class FileLog(object):
 
     def __init__(self, file_name):
+        self.start_time = time.time()
         self.fp = open(file_name, "w")
 
     def log(self, log_str, *log_args):
@@ -32,6 +33,11 @@ class FileLog(object):
     def log_finish(self):
         self.fp.close()
         self.fp = None
+
+    def log_finish_with_time(self):
+        info = "总共耗时: %0.3f s" % (time.time() - self.start_time)
+        self.log(info)
+        self.log_finish()
 
     def __call__(self, *args, **kwargs):
         self.log_time(*args)
